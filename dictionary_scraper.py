@@ -47,6 +47,14 @@ del df["Begin Year"]
 del df["EndYear"]
 del df["Use Constraints"]
 
-# Save file
+# Move component
+cols = df.columns.tolist()
+cols = [cols[0], cols[2],cols[1]]
+df = df[cols]
+
+# Set index as variable and sort alphabetically
 df.set_index("Variable Name", inplace=True)
+df_sorted = df.sort_index(axis=1)
+
+# Save file
 df.to_csv("NHANES_Dictionary.csv")
