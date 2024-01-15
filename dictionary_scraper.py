@@ -49,7 +49,7 @@ del df["Use Constraints"]
 
 # Move component
 cols = df.columns.tolist()
-cols = [cols[0], cols[2],cols[1]]
+cols = [cols[0], cols[2], cols[1]]
 df = df[cols]
 
 # Set index as variable and sort alphabetically
