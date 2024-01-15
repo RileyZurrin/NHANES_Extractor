@@ -7,6 +7,11 @@ from pd_combine_dupes import combine_dupes
 import os
 import re
 
+
+# Modify this line to year of choice. E.g., 2015
+BASE_YEAR = 2017
+
+# Modify this to return less information while running (e.g., level=logging.DEBUG)
 logging.basicConfig(level=logging.INFO)
 
 
@@ -84,6 +89,7 @@ class NHANESDataDownloader:
 
         logging.info(f'Finished and saved {datatype} file')
 
+
      # These files are not important or are too large
     def is_unimportant_file(self, xpt):
         lst = ["DR1IFF", "DR2IFF", "DSII", "AUXAR", "PAXHR", "PAXMIN"]
@@ -124,7 +130,7 @@ class NHANESDataDownloader:
 
 def main():
     # Input home page of NHANES data. Default is 2017-2018 data
-    base_url = "https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2015"
+    base_url = f"https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear={BASE_YEAR}"
     downloader = NHANESDataDownloader(base_url)
     downloader.download_data()
 
