@@ -1,0 +1,2229 @@
+Variable,Encoding
+SDDSRVYR,"{10: 'NHANES 2017-2018 public release', '.': 'Missing'}"
+RIDSTATR,"{1: 'Interviewed only', 2: 'Both interviewed and MEC examined', '.': 'Missing'}"
+RIAGENDR,"{1: 'Male', 2: 'Female', '.': 'Missing'}"
+RIDAGEYR,"{80: '80 years of age and over', '.': 'Missing'}"
+RIDAGEMN,{'.': 'Missing'}
+RIDRETH1,"{1: 'Mexican American', 2: 'Other Hispanic', 3: 'Non-Hispanic White', 4: 'Non-Hispanic Black', 5: 'Other Race - Including Multi-Racial', '.': 'Missing'}"
+RIDRETH3,"{1: 'Mexican American', 2: 'Other Hispanic', 3: 'Non-Hispanic White', 4: 'Non-Hispanic Black', 6: 'Non-Hispanic Asian', 7: 'Other Race - Including Multi-Racial', '.': 'Missing'}"
+RIDEXMON,"{1: 'November 1 through April 30', 2: 'May 1 through October 31', '.': 'Missing'}"
+RIDEXAGM,{'.': 'Missing'}
+DMQMILIZ,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+DMQADFC,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+DMDBORN4,"{1: 'Born in 50 US states or Washington, DC', 2: 'Others', 77: 'Refused', 99: ""Don't Know"", '.': 'Missing'}"
+DMDCITZN,"{1: 'Citizen by birth or naturalization', 2: 'Not a citizen of the US', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+DMDYRSUS,"{1: 'Less than 1 year', 2: '1 year or more, but less than 5 years', 3: '5 year or more, but less than 10 years', 4: '10 year or more, but less than 15 years', 5: '15 year or more, but less than 20 years', 6: '20 year or more, but less than 30 years', 7: '30 year or more, but less than 40 years', 8: '40 year or more, but less than 50 years', 9: '50 years or more', 77: 'Refused', 99: ""Don't Know"", '.': 'Missing'}"
+DMDEDUC3,"{0: 'Never attended / kindergarten only', 1: '1st grade', 2: '2nd grade', 3: '3rd grade', 4: '4th grade', 5: '5th grade', 6: '6th grade', 7: '7th grade', 8: '8th grade', 9: '9th grade', 10: '10th grade', 11: '11th grade', 12: '12th grade, no diploma', 13: 'High school graduate', 14: 'GED or equivalent', 15: 'More than high school', 55: 'Less than 5th grade', 66: 'Less than 9th grade', 77: 'Refused', 99: ""Don't Know"", '.': 'Missing'}"
+DMDEDUC2,"{1: 'Less than 9th grade', 2: '9-11th grade (Includes 12th grade with no diploma)', 3: 'High school graduate/GED or equivalent', 4: 'Some college or AA degree', 5: 'College graduate or above', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+DMDMARTL,"{1: 'Married', 2: 'Widowed', 3: 'Divorced', 4: 'Separated', 5: 'Never married', 6: 'Living with partner', 77: 'Refused', 99: ""Don't Know"", '.': 'Missing'}"
+RIDEXPRG,"{1: 'Yes, positive lab pregnancy test or self-reported pregnant at exam', 2: 'The participant was not pregnant at exam', 3: 'Cannot ascertain if the participant is pregnant at exam', '.': 'Missing'}"
+SIALANG,"{1: 'English', 2: 'Spanish', '.': 'Missing'}"
+SIAPROXY,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+SIAINTRP,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+FIALANG,"{1: 'English', 2: 'Spanish', '.': 'Missing'}"
+FIAPROXY,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+FIAINTRP,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+MIALANG,"{1: 'English', 2: 'Spanish', '.': 'Missing'}"
+MIAPROXY,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+MIAINTRP,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+AIALANGA,"{1: 'English', 2: 'Spanish', 3: 'Asian languages', '.': 'Missing'}"
+DMDHHSIZ,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7 or more people in the Household', '.': 'Missing'}"
+DMDFMSIZ,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7 or more people in the Family', '.': 'Missing'}"
+DMDHHSZA,"{0: '0', 1: '1', 2: '2', 3: '3 or more', '.': 'Missing'}"
+DMDHHSZB,"{0: '0', 1: '1', 2: '2', 3: '3 or more', '.': 'Missing'}"
+DMDHHSZE,"{0: '0', 1: '1', 2: '2', 3: '3 or more', '.': 'Missing'}"
+DMDHRGND,"{1: 'Male', 2: 'Female', '.': 'Missing'}"
+DMDHRAGZ,"{1: '<20 years', 2: '20-39 years', 3: '40-59 years', 4: '60+ years', '.': 'Missing'}"
+DMDHREDZ,"{1: 'Less than high school degree', 2: 'High school grad/GED or some college/AA degree', 3: 'College graduate or above', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+DMDHRMAZ,"{1: 'Married/Living with partner', 2: 'Widowed/Divorced/Separated', 3: 'Never Married', 77: 'Refused', 99: ""Don't Know"", '.': 'Missing'}"
+DMDHSEDZ,"{1: 'Less than high school degree', 2: 'High school grad/GED or some college/AA degree', 3: 'College graduate or above', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+WTINT2YR,{'.': 'Missing'}
+WTMEC2YR,"{0: 'Not MEC Examined', '.': 'Missing'}"
+SDMVPSU,{'.': 'Missing'}
+SDMVSTRA,{'.': 'Missing'}
+INDHHIN2,"{1: '$ 0 to $ 4,999', 2: '$ 5,000 to $ 9,999', 3: '$10,000 to $14,999', 4: '$15,000 to $19,999', 5: '$20,000 to $24,999', 6: '$25,000 to $34,999', 7: '$35,000 to $44,999', 8: '$45,000 to $54,999', 9: '$55,000 to $64,999', 10: '$65,000 to $74,999', 12: '$20,000 and Over', 13: 'Under $20,000', 14: '$75,000 to $99,999', 15: '$100,000 and Over', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+INDFMIN2,"{1: '$ 0 to $ 4,999', 2: '$ 5,000 to $ 9,999', 3: '$10,000 to $14,999', 4: '$15,000 to $19,999', 5: '$20,000 to $24,999', 6: '$25,000 to $34,999', 7: '$35,000 to $44,999', 8: '$45,000 to $54,999', 9: '$55,000 to $64,999', 10: '$65,000 to $74,999', 12: '$20,000 and Over', 13: 'Under $20,000', 14: '$75,000 to $99,999', 15: '$100,000 and Over', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+INDFMPIR,"{5: 'Value greater than or equal to 5.00', '.': 'Missing'}"
+WTDRD1,{'.': 'Missing'}
+WTDR2D,"{0: 'Day 2 dietary recall not done/incomplete', '.': 'Missing'}"
+DR1DRSTZ,"{1: 'Reliable and met the minimum criteria', 2: 'Not reliable or not met the minimum criteria', 4: 'Reported consuming breast-milk', 5: 'Not done', '.': 'Missing'}"
+DR1EXMER,{'.': 'Missing'}
+DRABF,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRDINT,"{1: 'Day 1 only', 2: 'Day 1 and day 2', '.': 'Missing'}"
+DR1DBIH,{'.': 'Missing'}
+DR1DAY,"{1: 'Sunday', 2: 'Monday', 3: 'Tuesday', 4: 'Wednesday', 5: 'Thursday', 6: 'Friday', 7: 'Saturday', '.': 'Missing'}"
+DR1LANG,"{1: 'English', 2: 'Spanish', 3: 'English and Spanish', 4: 'Other', 5: 'Asian Languages', 6: 'Asian Languages and English', '.': 'Missing'}"
+DR1MRESP,"{1: 'SP', 2: 'Mother of SP', 3: 'Father of SP', 5: 'Spouse of SP', 6: 'Child of SP', 7: 'Grandparent of SP', 8: 'Friend, Partner, Non Relative', 9: 'Translator, not a HH member', 10: 'Child care provider, Caretaker', 11: 'Other Relative', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DR1HELP,"{1: 'SP', 4: 'Parent of SP', 5: 'Spouse of SP', 6: 'Child of SP', 7: 'Grandparent of SP', 8: 'Friend, Partner, Non Relative', 9: 'Translator, not a HH member', 10: 'Child care provider, Caretaker', 11: 'Other Relative', 12: 'No One', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DBQ095Z,"{1: 'Ordinary salt [includes regular iodized salt, sea salt and seasoning salts made with regular salt]', 2: 'Lite salt', 3: 'Salt substitute', 4: ""Doesn't use or add salt products at the table"", 91: 'Other', 99: ""Don't know"", '.': 'Missing'}"
+DBD100,"{1: 'Rarely', 2: 'Occasionally', 3: 'Very often', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DRQSPREP,"{1: 'Never', 2: 'Rarely', 3: 'Occasionally', 4: 'Very Often', 9: ""Don't know"", '.': 'Missing'}"
+DR1STY,"{1: 'Yes', 2: 'No', 9: ""Don't know"", '.': 'Missing'}"
+DR1SKY,"{1: 'Ordinary, sea, seasoned, or other flavored salt', 2: 'Lite salt', 3: 'Salt substitute', 91: 'Other', 99: ""Don't know"", '.': 'Missing'}"
+DRQSDIET,"{1: 'Yes', 2: 'No', 9: ""Don't know"", '.': 'Missing'}"
+DRQSDT1,"{1: 'Weight loss or low calorie diets', '.': 'Missing'}"
+DRQSDT2,"{2: 'Low fat or low cholesterol diet', '.': 'Missing'}"
+DRQSDT3,"{3: 'Low salt or low sodium diet (including diet to lower blood pressure or hypertension)', '.': 'Missing'}"
+DRQSDT4,"{4: 'Sugar free or low sugar diet', '.': 'Missing'}"
+DRQSDT5,"{5: 'Low fiber or low residue diet', '.': 'Missing'}"
+DRQSDT6,"{6: 'High fiber or high residue diet', '.': 'Missing'}"
+DRQSDT7,"{7: 'Diabetic diet (including gestational diabetic diets)', '.': 'Missing'}"
+DRQSDT8,"{8: 'Weight gain/Muscle building diet', '.': 'Missing'}"
+DRQSDT9,"{9: 'Low carbohydrate diet', '.': 'Missing'}"
+DRQSDT10,"{10: 'High protein diet', '.': 'Missing'}"
+DRQSDT11,"{11: 'Gluten-free/Celiac diet', '.': 'Missing'}"
+DRQSDT12,"{12: 'Renal/Kidney diet', '.': 'Missing'}"
+DRQSDT91,"{91: 'Other special diet', '.': 'Missing'}"
+DR1TNUMF,{'.': 'Missing'}
+DR1TKCAL,{'.': 'Missing'}
+DR1TPROT,{'.': 'Missing'}
+DR1TCARB,{'.': 'Missing'}
+DR1TSUGR,{'.': 'Missing'}
+DR1TFIBE,{'.': 'Missing'}
+DR1TTFAT,{'.': 'Missing'}
+DR1TSFAT,{'.': 'Missing'}
+DR1TMFAT,{'.': 'Missing'}
+DR1TPFAT,{'.': 'Missing'}
+DR1TCHOL,{'.': 'Missing'}
+DR1TATOC,{'.': 'Missing'}
+DR1TATOA,{'.': 'Missing'}
+DR1TRET,{'.': 'Missing'}
+DR1TVARA,{'.': 'Missing'}
+DR1TACAR,{'.': 'Missing'}
+DR1TBCAR,{'.': 'Missing'}
+DR1TCRYP,{'.': 'Missing'}
+DR1TLYCO,{'.': 'Missing'}
+DR1TLZ,{'.': 'Missing'}
+DR1TVB1,{'.': 'Missing'}
+DR1TVB2,{'.': 'Missing'}
+DR1TNIAC,{'.': 'Missing'}
+DR1TVB6,{'.': 'Missing'}
+DR1TFOLA,{'.': 'Missing'}
+DR1TFA,{'.': 'Missing'}
+DR1TFF,{'.': 'Missing'}
+DR1TFDFE,{'.': 'Missing'}
+DR1TCHL,{'.': 'Missing'}
+DR1TVB12,{'.': 'Missing'}
+DR1TB12A,{'.': 'Missing'}
+DR1TVC,{'.': 'Missing'}
+DR1TVD,{'.': 'Missing'}
+DR1TVK,{'.': 'Missing'}
+DR1TPHOS,{'.': 'Missing'}
+DR1TMAGN,{'.': 'Missing'}
+DR1TIRON,{'.': 'Missing'}
+DR1TZINC,{'.': 'Missing'}
+DR1TCOPP,{'.': 'Missing'}
+DR1TSODI,{'.': 'Missing'}
+DR1TPOTA,{'.': 'Missing'}
+DR1TSELE,{'.': 'Missing'}
+DR1TCAFF,{'.': 'Missing'}
+DR1TTHEO,{'.': 'Missing'}
+DR1TALCO,{'.': 'Missing'}
+DR1TMOIS,{'.': 'Missing'}
+DR1TS040,{'.': 'Missing'}
+DR1TS060,{'.': 'Missing'}
+DR1TS080,{'.': 'Missing'}
+DR1TS100,{'.': 'Missing'}
+DR1TS120,{'.': 'Missing'}
+DR1TS140,{'.': 'Missing'}
+DR1TS160,{'.': 'Missing'}
+DR1TS180,{'.': 'Missing'}
+DR1TM161,{'.': 'Missing'}
+DR1TM181,{'.': 'Missing'}
+DR1TM201,{'.': 'Missing'}
+DR1TM221,{'.': 'Missing'}
+DR1TP182,{'.': 'Missing'}
+DR1TP183,{'.': 'Missing'}
+DR1TP184,{'.': 'Missing'}
+DR1TP204,{'.': 'Missing'}
+DR1TP205,{'.': 'Missing'}
+DR1TP225,{'.': 'Missing'}
+DR1TP226,{'.': 'Missing'}
+DR1_300,"{1: 'Much more than usual', 2: 'Usual', 3: 'Much less than usual', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DR1_320Z,{'.': 'Missing'}
+DR1_330Z,{'.': 'Missing'}
+DR1BWATZ,{'.': 'Missing'}
+DR1TWSZ,"{1: 'Community supply', 4: ""Don't drink tap water"", 91: 'Other', 99: ""Don't know"", '.': 'Missing'}"
+DRD340,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DRD350A,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350AQ,{'.': 'Missing'}
+DRD350B,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350BQ,{'.': 'Missing'}
+DRD350C,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350CQ,{'.': 'Missing'}
+DRD350D,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350DQ,{'.': 'Missing'}
+DRD350E,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350EQ,{'.': 'Missing'}
+DRD350F,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350FQ,{'.': 'Missing'}
+DRD350G,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350GQ,{'.': 'Missing'}
+DRD350H,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350HQ,{'.': 'Missing'}
+DRD350I,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350IQ,{'.': 'Missing'}
+DRD350J,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD350JQ,{'.': 'Missing'}
+DRD350K,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD360,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DRD370A,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370AQ,{'.': 'Missing'}
+DRD370B,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370BQ,{'.': 'Missing'}
+DRD370C,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370CQ,{'.': 'Missing'}
+DRD370D,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370DQ,{'.': 'Missing'}
+DRD370E,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370EQ,{'.': 'Missing'}
+DRD370F,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370FQ,{'.': 'Missing'}
+DRD370G,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370GQ,{'.': 'Missing'}
+DRD370H,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370HQ,{'.': 'Missing'}
+DRD370I,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370IQ,{'.': 'Missing'}
+DRD370J,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370JQ,{'.': 'Missing'}
+DRD370K,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370KQ,{'.': 'Missing'}
+DRD370L,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370LQ,{'.': 'Missing'}
+DRD370M,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370MQ,{'.': 'Missing'}
+DRD370N,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370NQ,{'.': 'Missing'}
+DRD370O,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370OQ,{'.': 'Missing'}
+DRD370P,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370PQ,{'.': 'Missing'}
+DRD370Q,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370QQ,{'.': 'Missing'}
+DRD370R,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370RQ,{'.': 'Missing'}
+DRD370S,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370SQ,{'.': 'Missing'}
+DRD370T,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370TQ,{'.': 'Missing'}
+DRD370U,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DRD370UQ,{'.': 'Missing'}
+DRD370V,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+DR2DRSTZ,"{1: 'Reliable and met the minimum criteria', 2: 'Not reliable or not met the minimum criteria', 4: 'Reported consuming breast-milk', 5: 'Not done', '.': 'Missing'}"
+DR2EXMER,{'.': 'Missing'}
+DR2DBIH,{'.': 'Missing'}
+DR2DAY,"{1: 'Sunday', 2: 'Monday', 3: 'Tuesday', 4: 'Wednesday', 5: 'Thursday', 6: 'Friday', 7: 'Saturday', '.': 'Missing'}"
+DR2LANG,"{1: 'English', 2: 'Spanish', 3: 'English and Spanish', 4: 'Other', 5: 'Asian Languages', 6: 'Asian Languages and English', '.': 'Missing'}"
+DR2MRESP,"{1: 'SP', 2: 'Mother of SP', 3: 'Father of SP', 5: 'Spouse of SP', 6: 'Child of SP', 7: 'Grandparent of SP', 8: 'Friend, Partner, Non Relative', 9: 'Translator, not a HH member', 10: 'Child care provider, Caretaker', 11: 'Other Relative', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DR2HELP,"{1: 'SP', 4: 'Parent of SP', 5: 'Spouse of SP', 6: 'Child of SP', 7: 'Grandparent of SP', 8: 'Friend, Partner, Non Relative', 9: 'Translator, not a HH member', 10: 'Child care provider, Caretaker', 11: 'Other Relative', 12: 'No One', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DR2TNUMF,{'.': 'Missing'}
+DR2STY,"{1: 'Yes', 2: 'No', 9: ""Don't know"", '.': 'Missing'}"
+DR2SKY,"{1: 'Ordinary, sea, seasoned, or other flavored salt', 2: 'Lite salt', 3: 'Salt substitute', 91: 'Other', 99: ""Don't know"", '.': 'Missing'}"
+DR2TKCAL,{'.': 'Missing'}
+DR2TPROT,{'.': 'Missing'}
+DR2TCARB,{'.': 'Missing'}
+DR2TSUGR,{'.': 'Missing'}
+DR2TFIBE,{'.': 'Missing'}
+DR2TTFAT,{'.': 'Missing'}
+DR2TSFAT,{'.': 'Missing'}
+DR2TMFAT,{'.': 'Missing'}
+DR2TPFAT,{'.': 'Missing'}
+DR2TCHOL,{'.': 'Missing'}
+DR2TATOC,{'.': 'Missing'}
+DR2TATOA,{'.': 'Missing'}
+DR2TRET,{'.': 'Missing'}
+DR2TVARA,{'.': 'Missing'}
+DR2TACAR,{'.': 'Missing'}
+DR2TBCAR,{'.': 'Missing'}
+DR2TCRYP,{'.': 'Missing'}
+DR2TLYCO,{'.': 'Missing'}
+DR2TLZ,{'.': 'Missing'}
+DR2TVB1,{'.': 'Missing'}
+DR2TVB2,{'.': 'Missing'}
+DR2TNIAC,{'.': 'Missing'}
+DR2TVB6,{'.': 'Missing'}
+DR2TFOLA,{'.': 'Missing'}
+DR2TFA,{'.': 'Missing'}
+DR2TFF,{'.': 'Missing'}
+DR2TFDFE,{'.': 'Missing'}
+DR2TCHL,{'.': 'Missing'}
+DR2TVB12,{'.': 'Missing'}
+DR2TB12A,{'.': 'Missing'}
+DR2TVC,{'.': 'Missing'}
+DR2TVD,{'.': 'Missing'}
+DR2TVK,{'.': 'Missing'}
+DR2TPHOS,{'.': 'Missing'}
+DR2TMAGN,{'.': 'Missing'}
+DR2TIRON,{'.': 'Missing'}
+DR2TZINC,{'.': 'Missing'}
+DR2TCOPP,{'.': 'Missing'}
+DR2TSODI,{'.': 'Missing'}
+DR2TPOTA,{'.': 'Missing'}
+DR2TSELE,{'.': 'Missing'}
+DR2TCAFF,{'.': 'Missing'}
+DR2TTHEO,{'.': 'Missing'}
+DR2TALCO,{'.': 'Missing'}
+DR2TMOIS,{'.': 'Missing'}
+DR2TS040,{'.': 'Missing'}
+DR2TS060,{'.': 'Missing'}
+DR2TS080,{'.': 'Missing'}
+DR2TS100,{'.': 'Missing'}
+DR2TS120,{'.': 'Missing'}
+DR2TS140,{'.': 'Missing'}
+DR2TS160,{'.': 'Missing'}
+DR2TS180,{'.': 'Missing'}
+DR2TM161,{'.': 'Missing'}
+DR2TM181,{'.': 'Missing'}
+DR2TM201,{'.': 'Missing'}
+DR2TM221,{'.': 'Missing'}
+DR2TP182,{'.': 'Missing'}
+DR2TP183,{'.': 'Missing'}
+DR2TP184,{'.': 'Missing'}
+DR2TP204,{'.': 'Missing'}
+DR2TP205,{'.': 'Missing'}
+DR2TP225,{'.': 'Missing'}
+DR2TP226,{'.': 'Missing'}
+DR2_300,"{1: 'Much more than usual', 2: 'Usual', 3: 'Much less than usual', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DR2_320Z,{'.': 'Missing'}
+DR2_330Z,{'.': 'Missing'}
+DR2BWATZ,{'.': 'Missing'}
+DR2TWSZ,"{1: 'Community supply', 4: ""Don't drink tap water"", 91: 'Other', 99: ""Don't know"", '.': 'Missing'}"
+DS1DSCNT,{'.': 'Missing'}
+DS1DS,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DS1ANCNT,{'.': 'Missing'}
+DS1AN,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DS1TKCAL,{'.': 'Missing'}
+DS1TPROT,{'.': 'Missing'}
+DS1TCARB,{'.': 'Missing'}
+DS1TSUGR,{'.': 'Missing'}
+DS1TFIBE,{'.': 'Missing'}
+DS1TTFAT,{'.': 'Missing'}
+DS1TSFAT,{'.': 'Missing'}
+DS1TMFAT,{'.': 'Missing'}
+DS1TPFAT,{'.': 'Missing'}
+DS1TCHOL,{'.': 'Missing'}
+DS1TLYCO,{'.': 'Missing'}
+DS1TLZ,{'.': 'Missing'}
+DS1TVB1,{'.': 'Missing'}
+DS1TVB2,{'.': 'Missing'}
+DS1TNIAC,{'.': 'Missing'}
+DS1TVB6,{'.': 'Missing'}
+DS1TVB12,{'.': 'Missing'}
+DS1TFA,{'.': 'Missing'}
+DS1TFDFE,{'.': 'Missing'}
+DS1TCHL,{'.': 'Missing'}
+DS1TVC,{'.': 'Missing'}
+DS1TVK,{'.': 'Missing'}
+DS1TVD,{'.': 'Missing'}
+DS1TPHOS,{'.': 'Missing'}
+DS1TMAGN,{'.': 'Missing'}
+DS1TIRON,{'.': 'Missing'}
+DS1TZINC,{'.': 'Missing'}
+DS1TCOPP,{'.': 'Missing'}
+DS1TSODI,{'.': 'Missing'}
+DS1TPOTA,{'.': 'Missing'}
+DS1TSELE,{'.': 'Missing'}
+DS1TCAFF,{'.': 'Missing'}
+DS1TIODI,{'.': 'Missing'}
+DS2DSCNT,{'.': 'Missing'}
+DS2DS,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DS2ANCNT,{'.': 'Missing'}
+DS2AN,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DS2TKCAL,{'.': 'Missing'}
+DS2TPROT,{'.': 'Missing'}
+DS2TCARB,{'.': 'Missing'}
+DS2TSUGR,{'.': 'Missing'}
+DS2TFIBE,{'.': 'Missing'}
+DS2TTFAT,{'.': 'Missing'}
+DS2TSFAT,{'.': 'Missing'}
+DS2TMFAT,{'.': 'Missing'}
+DS2TPFAT,{'.': 'Missing'}
+DS2TCHOL,{'.': 'Missing'}
+DS2TLYCO,{'.': 'Missing'}
+DS2TLZ,{'.': 'Missing'}
+DS2TVB1,{'.': 'Missing'}
+DS2TVB2,{'.': 'Missing'}
+DS2TNIAC,{'.': 'Missing'}
+DS2TVB6,{'.': 'Missing'}
+DS2TVB12,{'.': 'Missing'}
+DS2TFA,{'.': 'Missing'}
+DS2TFDFE,{'.': 'Missing'}
+DS2TCHL,{'.': 'Missing'}
+DS2TVC,{'.': 'Missing'}
+DS2TVK,{'.': 'Missing'}
+DS2TVD,{'.': 'Missing'}
+DS2TPHOS,{'.': 'Missing'}
+DS2TMAGN,{'.': 'Missing'}
+DS2TIRON,{'.': 'Missing'}
+DS2TZINC,{'.': 'Missing'}
+DS2TCOPP,{'.': 'Missing'}
+DS2TSODI,{'.': 'Missing'}
+DS2TPOTA,{'.': 'Missing'}
+DS2TSELE,{'.': 'Missing'}
+DS2TCAFF,{'.': 'Missing'}
+DS2TIODI,{'.': 'Missing'}
+DSDCOUNT,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DSDANCNT,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DSD010,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DSD010AN,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DSQTKCAL,{'.': 'Missing'}
+DSQTPROT,{'.': 'Missing'}
+DSQTCARB,{'.': 'Missing'}
+DSQTSUGR,{'.': 'Missing'}
+DSQTFIBE,{'.': 'Missing'}
+DSQTTFAT,{'.': 'Missing'}
+DSQTSFAT,{'.': 'Missing'}
+DSQTMFAT,{'.': 'Missing'}
+DSQTPFAT,{'.': 'Missing'}
+DSQTCHOL,{'.': 'Missing'}
+DSQTLYCO,{'.': 'Missing'}
+DSQTLZ,{'.': 'Missing'}
+DSQTVB1,{'.': 'Missing'}
+DSQTVB2,{'.': 'Missing'}
+DSQTNIAC,{'.': 'Missing'}
+DSQTVB6,{'.': 'Missing'}
+DSQTFA,{'.': 'Missing'}
+DSQTFDFE,{'.': 'Missing'}
+DSQTCHL,{'.': 'Missing'}
+DSQTVB12,{'.': 'Missing'}
+DSQTVC,{'.': 'Missing'}
+DSQTVK,{'.': 'Missing'}
+DSQTVD,{'.': 'Missing'}
+DSQTPHOS,{'.': 'Missing'}
+DSQTMAGN,{'.': 'Missing'}
+DSQTIRON,{'.': 'Missing'}
+DSQTZINC,{'.': 'Missing'}
+DSQTCOPP,{'.': 'Missing'}
+DSQTSODI,{'.': 'Missing'}
+DSQTPOTA,{'.': 'Missing'}
+DSQTSELE,{'.': 'Missing'}
+DSQTCAFF,{'.': 'Missing'}
+DSQTIODI,{'.': 'Missing'}
+AUAEXSTS,"{1: 'Complete', 2: 'Partial', 3: 'Not done', '.': 'Missing'}"
+AUAEXCMT,"{2: 'SP refusal', 3: 'No time', 4: 'Physical limitation', 5: 'Communication problem', 6: 'Equipment failure', 7: 'SP ill/emergency', 14: 'Interrupted', 51: 'SP unable to comply', 56: 'Came late/left early', 72: 'Error (technician/software/supply)', 99: 'Other, specify', 122: 'Language barrier', 150: 'SP with parent SP', '.': 'Missing'}"
+AUQ011,"{1: 'Yes, right ear', 2: 'Yes, left ear', 3: 'Yes, both ears', 4: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ540,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ550,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ550A,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ550B,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ550C,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ550D,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ550E,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ560,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ570,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ580,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ590,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ600,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ610,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ051,"{1: 'Yes, right ear', 2: 'Yes, left ear', 7: 'Refused', 9: ""No / don't know"", '.': 'Missing'}"
+AUQ010,"{1: 'Yes, right ear', 2: 'Yes, left ear', 3: 'Yes, both ears', 4: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ020A,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ020B,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ020C,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ020D,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ020E,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', 9: ""Don't know"", '.': 'Missing'}"
+AUQ031,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ041,"{77: 'SP refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ520,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ530,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ050,"{1: 'Yes, right ear', 2: 'Yes, left ear', 7: 'Refused', 9: ""No / don't know"", '.': 'Missing'}"
+AUXOTSPL,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXLOEXC,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXLOIMC,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXLOCOL,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXLOABN,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUDLOABC,"{1: 'Possible Perforated Eardrum', 3: 'Possible Infection', 4: 'TM Scarring or Deformity', 5: 'Possible Ear Canal Abrasion', 6: 'Growth or Foreign Body in Ear Canal', 7: 'Deformity of Auricle', 8: 'Other', 9: 'Could not Visualize Eardrum', '.': 'Missing'}"
+AUXROTSP,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXROEXC,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXROIMC,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXROCOL,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUXROABN,"{1: 'Yes (checkbox checked)', 2: 'No (checkbox unchecked)', '.': 'Missing'}"
+AUDROABC,"{1: 'Possible Perforated Eardrum', 3: 'Possible Infection', 4: 'TM Scarring or Deformity', 5: 'Possible Ear Canal Abrasion', 6: 'Growth or Foreign Body in Ear Canal', 7: 'Deformity of Auricle', 8: 'Other', 9: 'Could not Visualize Eardrum', '.': 'Missing'}"
+AUXTMEPR,{'.': 'Missing'}
+AUXTPVR,{'.': 'Missing'}
+AUXTWIDR,{'.': 'Missing'}
+AUXTCOMR,{'.': 'Missing'}
+AUXTMEPL,{'.': 'Missing'}
+AUXTPVL,{'.': 'Missing'}
+AUXTWIDL,{'.': 'Missing'}
+AUXTCOML,{'.': 'Missing'}
+AUAEAR,"{1: 'Right', 2: 'Left', '.': 'Missing'}"
+AUAMODE,"{1: 'Manual', 2: 'Automatic', 3: 'Mixed', '.': 'Missing'}"
+AUAFMANL,"{1: 'None', 2: '500 Hz', 3: '1000 Hz', 4: '2000 Hz', 5: '3000 Hz', 6: '4000 Hz', 7: '6000 Hz', 8: '8000 Hz', '.': 'Missing'}"
+AUAFMANR,"{1: 'None', 2: '500 Hz', 3: '1000 Hz', 4: '2000 Hz', 5: '3000 Hz', 6: '4000 Hz', 7: '6000 Hz', 8: '8000 Hz', '.': 'Missing'}"
+AUXU1K1R,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU500R,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU1K2R,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU2KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU3KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU4KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU6KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU8KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU1K1L,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU500L,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU1K2L,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU2KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU3KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU4KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU6KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXU8KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR1K1R,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR5CR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR1K2R,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR2KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR3KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR4KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR6KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR8KR,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR1K1L,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR5CL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR1K2L,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR2KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR3KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR4KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR6KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUXR8KL,"{666: 'No response', 888: 'Could not obtain', '.': 'Missing'}"
+AUAREQC,"{1: 'Good - tympanogram is smooth and symmetrical', 2: ""Adequate - tympanogram is 'noisy' but adequate for interpretation"", 3: 'Poor - tympanogram cannot be interpreted', 7: 'SP Refused Tympanometry', 8: 'Could not obtain', 9: 'Equivocal - tympanogram cannot be evaluated without further information', '.': 'Missing'}"
+AUATYMTR,"{88888: 'Could not obtain', 99999: 'Could not interpret'}"
+AUALEQC,"{1: 'Good - tympanogram is smooth and symmetrical', 2: ""Adequate - tympanogram is 'noisy' but adequate for interpretation"", 3: 'Poor - tympanogram cannot be interpreted', 7: 'SP Refused Tympanometry', 8: 'Could not obtain', 9: 'Equivocal - tympanogram cannot be evaluated without further information', '.': 'Missing'}"
+AUATYMTL,"{88888: 'Could not obtain', 99999: 'Could not interpret'}"
+PEASCCT1,"{1: 'Safety exclusion', 2: 'SP refusal', 3: 'Time constraints', 4: 'Other', '.': 'Missing'}"
+BPXCHR,{'.': 'Missing'}
+BPAARM,"{1: 'Right', 2: 'Left', 8: 'Could not obtain', '.': 'Missing'}"
+BPACSZ,"{1: 'Infant (6X12)', 2: 'Child (9X17)', 3: 'Adult (12X22)', 4: 'Large (15X32)', 5: 'Thigh (18X35)', '.': 'Missing'}"
+BPXPLS,{'.': 'Missing'}
+BPXPULS,"{1: 'Regular', 2: 'Irregular', '.': 'Missing'}"
+BPXPTY,"{1: 'Radial', 2: 'Brachial', 8: 'Could not obtain', '.': 'Missing'}"
+BPXML1,{'.': 'Missing'}
+BPXSY1,{'.': 'Missing'}
+BPXDI1,{'.': 'Missing'}
+BPAEN1,"{1: 'Yes', 2: 'No', 8: 'Could not obtain', '.': 'Missing'}"
+BPXSY2,{'.': 'Missing'}
+BPXDI2,{'.': 'Missing'}
+BPAEN2,"{1: 'Yes', 2: 'No', 8: 'Could not obtain', '.': 'Missing'}"
+BPXSY3,{'.': 'Missing'}
+BPXDI3,{'.': 'Missing'}
+BPAEN3,"{1: 'Yes', 2: 'No', 8: 'Could not obtain', '.': 'Missing'}"
+BPXSY4,{'.': 'Missing'}
+BPXDI4,{'.': 'Missing'}
+BPAEN4,"{1: 'Yes', 2: 'No', 8: 'Could not obtain', '.': 'Missing'}"
+BPAOARM,{}
+BPAOCSZ,"{2: '17-21.9 (bladder size = 9.20 x 16.68 cm)', 3: '22-31.9 (bladder size = 12.49 x 23.52 cm)', 4: '32-41.9 (bladder size = 14.98 x 31.19 cm)', 5: '42-50 (bladder size = 17.98 x 37.89 cm)', '.': 'Missing'}"
+BPAOMNTS,{'.': 'Missing'}
+BPXOSY1,{'.': 'Missing'}
+BPXODI1,{'.': 'Missing'}
+BPXOSY2,{'.': 'Missing'}
+BPXODI2,{'.': 'Missing'}
+BPXOSY3,{'.': 'Missing'}
+BPXODI3,{'.': 'Missing'}
+BPXOPLS1,{'.': 'Missing'}
+BPXOPLS2,{'.': 'Missing'}
+BPXOPLS3,{'.': 'Missing'}
+BMDSTATS,"{1: 'Complete data for age group', 2: 'Partial:  Only height and weight obtained', 3: 'Other partial exam', 4: 'No body measures exam data', '.': 'Missing'}"
+BMXWT,{'.': 'Missing'}
+BMIWT,"{1: 'Could not obtain', 3: 'Clothing', 4: 'Medical appliance', '.': 'Missing'}"
+BMXRECUM,{'.': 'Missing'}
+BMIRECUM,"{1: 'Could not obtain', 3: 'Not straight', '.': 'Missing'}"
+BMXHEAD,{'.': 'Missing'}
+BMIHEAD,"{1: 'Could not obtain', '.': 'Missing'}"
+BMXHT,{'.': 'Missing'}
+BMIHT,"{1: 'Could not obtain', 3: 'Not straight', '.': 'Missing'}"
+BMXBMI,{'.': 'Missing'}
+BMXLEG,{'.': 'Missing'}
+BMILEG,"{1: 'Could not obtain', '.': 'Missing'}"
+BMXARML,{'.': 'Missing'}
+BMIARML,"{1: 'Could not obtain', '.': 'Missing'}"
+BMXARMC,{'.': 'Missing'}
+BMIARMC,"{1: 'Could not obtain', '.': 'Missing'}"
+BMXWAIST,{'.': 'Missing'}
+BMIWAIST,"{1: 'Could not obtain', '.': 'Missing'}"
+BMXHIP,{'.': 'Missing'}
+BMIHIP,"{1: 'Could not obtain', '.': 'Missing'}"
+DXXAGST,"{1: 'Whole body scan completed; android/gynoid region is valid', 2: 'Whole body scan completed, but android or gynoid region is invalid', 3: 'Whole body not scanned, pregnancy', 4: 'Whole body not scanned, weight > 450 lbs', 5: ""Whole body not scanned, height > 6'5â\x80\x9d"", 6: 'Whole body not scanned, other reason', '.': 'Missing'}"
+DXXVATV,"{0: 'Valid', 1: 'Invalid', '.': 'Missing'}"
+DXXANTV,"{0: 'Valid', 1: 'Invalid', '.': 'Missing'}"
+DXXGYTV,"{0: 'Valid', 1: 'Invalid', '.': 'Missing'}"
+DXXANFM,{'.': 'Missing'}
+DXXANLM,{'.': 'Missing'}
+DXXANTOM,{'.': 'Missing'}
+DXXGYFM,{'.': 'Missing'}
+DXXGYLM,{'.': 'Missing'}
+DXXGYTOM,{'.': 'Missing'}
+DXXAGRAT,{'.': 'Missing'}
+DXXAPFAT,{'.': 'Missing'}
+DXXGPFAT,{'.': 'Missing'}
+DXXSATA,{'.': 'Missing'}
+DXXSATM,{'.': 'Missing'}
+DXXSATV,{'.': 'Missing'}
+DXXTATA,{'.': 'Missing'}
+DXXTATM,{'.': 'Missing'}
+DXXTATV,{'.': 'Missing'}
+DXXVFATA,{'.': 'Missing'}
+DXXVFATM,{'.': 'Missing'}
+DXXVFATV,{'.': 'Missing'}
+DXAFMRST,"{1: 'Femur scan completed, all data are valid', 2: 'Femur scan completed, but all data are invalid', 4: 'Femur not scanned, weight > 450 lbs', 5: 'Femur not scanned, other reason', '.': 'Missing'}"
+DXXFMBCC,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to obesity', 4: 'Body parts out of scan region', 5: 'Positioning problem', 6: 'Other (includes panniculus, participant motion, unknown       artifact)', '.': 'Missing'}"
+DXXOFBMD,{'.': 'Missing'}
+DXXOFBMC,{'.': 'Missing'}
+DXXOFA,{'.': 'Missing'}
+DXXNKBMD,{'.': 'Missing'}
+DXXNKBMC,{'.': 'Missing'}
+DXXNKA,{'.': 'Missing'}
+DXXTRBMD,{'.': 'Missing'}
+DXXTRBMC,{'.': 'Missing'}
+DXXTRA,{'.': 'Missing'}
+DXXINBMD,{'.': 'Missing'}
+DXXINBMC,{'.': 'Missing'}
+DXXINA,{'.': 'Missing'}
+DXXWDBMD,{'.': 'Missing'}
+DXXWDBMC,{'.': 'Missing'}
+DXXWDA,{'.': 'Missing'}
+DXAFMRK,{'.': 'Missing'}
+DXAFMRD0,{'.': 'Missing'}
+DXASPNST,"{1: 'Spine scan completed, all vertebrae are valid', 2: 'Spine scan completed, but one or more vertebrae are       invalid', 4: 'Spine not scanned, weight > 450 lbs', 5: 'Spine not scanned, other reason', '.': 'Missing'}"
+DXXOSBCC,"{0: 'Valid data', 1: 'Invalid data', '.': 'Missing'}"
+DXXL1BCC,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to morbid obesity', 4: 'Insufficient scan area', 5: 'Movement', 6: 'Other (degenerative diseases, spinal fusion,     fractures)', '.': 'Missing'}"
+DXXL2BCC,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to morbid obesity', 4: 'Insufficient scan area', 5: 'Movement', 6: 'Other (degenerative diseases, spinal fusion,     fractures)', '.': 'Missing'}"
+DXXL3BCC,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to morbid obesity', 4: 'Insufficient scan area', 5: 'Movement', 6: 'Other (degenerative diseases, spinal fusion,     fractures)', '.': 'Missing'}"
+DXXL4BCC,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to morbid obesity', 4: 'Insufficient scan area', 5: 'Movement', 6: 'Other (degenerative diseases, spinal fusion,     fractures)', '.': 'Missing'}"
+DXXOSBMD,{'.': 'Missing'}
+DXXOSBMC,{'.': 'Missing'}
+DXXOSA,{'.': 'Missing'}
+DXXL1BMD,{'.': 'Missing'}
+DXXL1BMC,{'.': 'Missing'}
+DXXL1A,{'.': 'Missing'}
+DXXL2BMD,{'.': 'Missing'}
+DXXL2BMC,{'.': 'Missing'}
+DXXL2A,{'.': 'Missing'}
+DXXL3BMD,{'.': 'Missing'}
+DXXL3BMC,{'.': 'Missing'}
+DXXL3A,{'.': 'Missing'}
+DXXL4BMD,{'.': 'Missing'}
+DXXL4BMC,{'.': 'Missing'}
+DXXL4A,{'.': 'Missing'}
+DXASPNK,{'.': 'Missing'}
+DXASPND0,{'.': 'Missing'}
+DXAEXSTS,"{1: 'Whole body scan completed', 2: 'Whole body scan completed, but  invalid', 3: 'Whole body not scanned, pregnancy', 4: 'Whole body not scanned, weight > 450 lbs', 5: ""Whole body not scanned,  height > 6'5"", 6: 'Whole body not scanned, other reason', '.': 'Missing'}"
+DXAHEBV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXHEA,{'.': 'Missing'}
+DXXHEBMC,{'.': 'Missing'}
+DXXHEBMD,{'.': 'Missing'}
+DXAHETV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXHEFAT,{'.': 'Missing'}
+DXDHELE,{'.': 'Missing'}
+DXXHELI,{'.': 'Missing'}
+DXDHETOT,{'.': 'Missing'}
+DXDHEPF,{'.': 'Missing'}
+DXALABV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXLAA,{'.': 'Missing'}
+DXXLABMC,{'.': 'Missing'}
+DXXLABMD,{'.': 'Missing'}
+DXALATV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXLAFAT,{'.': 'Missing'}
+DXDLALE,{'.': 'Missing'}
+DXXLALI,{'.': 'Missing'}
+DXDLATOT,{'.': 'Missing'}
+DXDLAPF,{'.': 'Missing'}
+DXALLBV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXLLA,{'.': 'Missing'}
+DXXLLBMC,{'.': 'Missing'}
+DXXLLBMD,{'.': 'Missing'}
+DXALLTV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXLLFAT,{'.': 'Missing'}
+DXDLLLE,{'.': 'Missing'}
+DXXLLLI,{'.': 'Missing'}
+DXDLLTOT,{'.': 'Missing'}
+DXDLLPF,{'.': 'Missing'}
+DXARABV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXRAA,{'.': 'Missing'}
+DXXRABMC,{'.': 'Missing'}
+DXXRABMD,{'.': 'Missing'}
+DXARATV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXRAFAT,{'.': 'Missing'}
+DXDRALE,{'.': 'Missing'}
+DXXRALI,{'.': 'Missing'}
+DXDRATOT,{'.': 'Missing'}
+DXDRAPF,{'.': 'Missing'}
+DXARLBV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXRLA,{'.': 'Missing'}
+DXXRLBMC,{'.': 'Missing'}
+DXXRLBMD,{'.': 'Missing'}
+DXARLTV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXRLFAT,{'.': 'Missing'}
+DXDRLLE,{'.': 'Missing'}
+DXXRLLI,{'.': 'Missing'}
+DXDRLTOT,{'.': 'Missing'}
+DXDRLPF,{'.': 'Missing'}
+DXXLRA,{'.': 'Missing'}
+DXXLRBMC,{'.': 'Missing'}
+DXXLRBMD,{'.': 'Missing'}
+DXXRRA,{'.': 'Missing'}
+DXXRRBMC,{'.': 'Missing'}
+DXXRRBMD,{'.': 'Missing'}
+DXXTSA,{'.': 'Missing'}
+DXXTSBMC,{'.': 'Missing'}
+DXXTSBMD,{'.': 'Missing'}
+DXXLSA,{'.': 'Missing'}
+DXXLSBMC,{'.': 'Missing'}
+DXXLSBMD,{'.': 'Missing'}
+DXXPEA,{'.': 'Missing'}
+DXXPEBMC,{'.': 'Missing'}
+DXXPEBMD,{'.': 'Missing'}
+DXATRBV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to morbid obesity', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXDTRA,{'.': 'Missing'}
+DXDTRBMC,{'.': 'Missing'}
+DXDTRBMD,{'.': 'Missing'}
+DXATRTV,"{0: 'Valid data', 1: 'Removable or non-removable objects', 3: 'Excessive x-ray noise due to morbid obesity', 4: 'Arm/leg overlap', 5: 'Body parts out of scan region', 6: 'Positioning problem', 7: 'Other', '.': 'Missing'}"
+DXXTRFAT,{'.': 'Missing'}
+DXDTRLE,{'.': 'Missing'}
+DXXTRLI,{'.': 'Missing'}
+DXDTRTOT,{'.': 'Missing'}
+DXDTRPF,{'.': 'Missing'}
+DXDSTA,{'.': 'Missing'}
+DXDSTBMC,{'.': 'Missing'}
+DXDSTBMD,{'.': 'Missing'}
+DXDSTFAT,{'.': 'Missing'}
+DXDSTLE,{'.': 'Missing'}
+DXDSTLI,{'.': 'Missing'}
+DXDSTTOT,{'.': 'Missing'}
+DXDSTPF,{'.': 'Missing'}
+DXDTOA,{'.': 'Missing'}
+DXDTOBMC,{'.': 'Missing'}
+DXDTOBMD,{'.': 'Missing'}
+DXDTOFAT,{'.': 'Missing'}
+DXDTOLE,{'.': 'Missing'}
+DXDTOLI,{'.': 'Missing'}
+DXDTOTOT,{'.': 'Missing'}
+DXDTOPF,{'.': 'Missing'}
+LUAXSTAT,"{1: 'Complete', 2: 'Partial', 3: 'Ineligible', 4: 'Not done', '.': 'Missing'}"
+LUARXNC,"{1: 'Fasting < 3hrs', 2: 'Unable to obtain 10 valid measures', 3: 'IQR/M >30%', '.': 'Missing'}"
+LUARXND,"{1: 'Participant refusal', 2: 'Limited time', 3: 'Other (e.g. physical or technical limitations )', '.': 'Missing'}"
+LUARXIN,"{1: 'Pregnant/ Unable to get urine to test for pregnancy', 2: 'Other (e.g. insulin pump or other implantable electronic device)', '.': 'Missing'}"
+LUAPNME,{}
+LUANMVGP,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7', 8: '8', 9: '9', 10: '10', 11: '11', 12: '12', 13: '13', 14: '14', 15: '15', 16: '16', 17: '17', 18: '18', 19: '19', 20: '20 to 29', 30: '30 or more', '.': 'Missing'}"
+LUANMTGP,"{0: 'Not done', 1: '1', 3: '3', 4: '4', 5: '5', 6: '6', 9: '9', 10: '10', 11: '11', 12: '12', 13: '13', 14: '14', 15: '15', 16: '16', 17: '17', 18: '18', 19: '19', 20: '20 to 29', 30: '30 or more', '.': 'Missing'}"
+LUATECH,{}
+LUXSMED,{'.': 'Missing'}
+LUXSIQR,{'.': 'Missing'}
+LUXSIQRM,{'.': 'Missing'}
+LUXCAPM,{'.': 'Missing'}
+LUXCPIQR,{'.': 'Missing'}
+OHDEXSTS,"{1: 'Complete', 2: 'Partial', 3: 'Not Done', '.': 'Missing'}"
+OHDDESTS,"{1: 'Complete', 2: 'Partial', 3: 'Not Done', '.': 'Missing'}"
+OHXIMP,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHX01TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX02TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX03TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX04TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX05TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX06TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX07TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX08TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX09TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX10TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX11TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX12TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX13TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX14TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX15TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX16TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX17TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX18TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX19TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX20TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX21TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX22TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX23TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX24TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX25TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX26TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX27TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX28TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX29TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX30TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX31TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX32TC,"{1: 'Primary tooth (deciduous) present', 2: 'Permanent tooth present', 3: 'Dental implant', 4: 'Tooth not present', 5: 'Permanent dental root fragment present', 9: 'Could not assess', '.': 'Missing'}"
+OHX02CTC,{}
+OHX03CTC,{}
+OHX04CTC,{}
+OHX05CTC,{}
+OHX06CTC,{}
+OHX07CTC,{}
+OHX08CTC,{}
+OHX09CTC,{}
+OHX10CTC,{}
+OHX11CTC,{}
+OHX12CTC,{}
+OHX13CTC,{}
+OHX14CTC,{}
+OHX15CTC,{}
+OHX18CTC,{}
+OHX19CTC,{}
+OHX20CTC,{}
+OHX21CTC,{}
+OHX22CTC,{}
+OHX23CTC,{}
+OHX24CTC,{}
+OHX25CTC,{}
+OHX26CTC,{}
+OHX27CTC,{}
+OHX28CTC,{}
+OHX29CTC,{}
+OHX30CTC,{}
+OHX31CTC,{}
+OHX02CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX03CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX04CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX05CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX06CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX07CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX08CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX09CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX10CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX11CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX12CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX13CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX14CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX15CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX18CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX19CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX20CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX21CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX22CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX23CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX24CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX25CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX26CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX27CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX28CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX29CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX30CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX31CSC,"{0: 'Lingual AMALGAM restoration', 1: 'Occlusal AMALGAM restoration', 2: 'Facial AMALGAM restoration', 3: 'Mesial AMALGAM restoration', 4: 'Distal AMALGAM restoration', 5: 'Lingual OTHER restoration', 6: 'Occlusal OTHER restoration', 7: 'Facial OTHER restoration', 8: 'Mesial OTHER restoration', 9: 'Distal OTHER restoration'}"
+OHX02RTC,{}
+OHX03RTC,{}
+OHX04RTC,{}
+OHX05RTC,{}
+OHX06RTC,{}
+OHX07RTC,{}
+OHX08RTC,{}
+OHX09RTC,{}
+OHX10RTC,{}
+OHX11RTC,{}
+OHX12RTC,{}
+OHX13RTC,{}
+OHX14RTC,{}
+OHX15RTC,{}
+OHX18RTC,{}
+OHX19RTC,{}
+OHX20RTC,{}
+OHX21RTC,{}
+OHX22RTC,{}
+OHX23RTC,{}
+OHX24RTC,{}
+OHX25RTC,{}
+OHX26RTC,{}
+OHX27RTC,{}
+OHX28RTC,{}
+OHX29RTC,{}
+OHX30RTC,{}
+OHX31RTC,{}
+OHX02RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX03RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX04RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX05RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX06RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX07RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX08RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX09RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX10RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX11RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX12RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX13RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX14RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX15RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX18RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX19RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX20RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX21RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX22RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX23RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX24RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX25RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX26RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX27RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX28RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX29RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX30RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHX31RSC,"{0: 'lingual AMALGAM restoration', 1: 'occlusal AMALGAM restoration', 2: 'facial AMALGAM restoration', 3: 'mesial AMALGAM restoration', 4: 'distal AMALGAM restoration', 5: 'lingual OTHER restoration', 6: 'occlusal OTHER restoration', 7: 'facial OTHER restoration', 8: 'mesial OTHER restoration', 9: 'distal OTHER restoration'}"
+OHXRCAR,"{1: 'Yes', 2: 'No', 9: 'Cannot be accessed', '.': 'Missing'}"
+OHXRCARO,"{1: 'Root caries detected', 2: 'Root caries not detected', 9: 'Cannot be accessed', '.': 'Missing'}"
+OHXRRES,"{1: 'Root restoration detected', 2: 'Root restoration not detected', 9: 'Cannot be accessed', '.': 'Missing'}"
+OHXRRESO,"{1: 'Root restoration detected', 2: 'Root restoration not detected', 9: 'Cannot be accessed', '.': 'Missing'}"
+OHX02SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX03SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX04SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX05SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX07SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX10SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX12SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX13SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX14SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX15SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX18SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX19SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX20SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX21SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX28SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX29SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX30SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHX31SE,"{0: 'Sealant not present', 1: 'Occlusal sealant on permanent tooth', 2: 'Facial sealant on permanent tooth', 3: 'Lingual sealant on permanent tooth', 4: 'Occlusal sealant on primary tooth', 9: 'Cannot be assessed', 12: 'Occlusal-facial sealant on permanent tooth', 13: 'Occlusal-lingual sealant on permanent tooth'}"
+OHDRCSTS,"{1: 'Complete', 2: 'Partial', 3: 'Not Done', '.': 'Missing'}"
+OHAREC,"{1: 'See a dentist immediately', 2: 'See a dentist within the next 2 weeks', 3: 'See a dentist at your earliest convenience', 4: 'Continue your regular routine care', '.': 'Missing'}"
+OHAROCDT,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHAROCGP,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHAROCOH,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHAROCCI,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHAROCDE,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHARNF,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHAROTH,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+OHAPOS,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+URXUMA,{'.': 'Missing'}
+URXUMS,{'.': 'Missing'}
+URXUCR,{'.': 'Missing'}
+URXCRS,{'.': 'Missing'}
+URDACT,{'.': 'Missing'}
+WTSSGP2Y,{'.': 'Missing'}
+SSAGP,{'.': 'Missing'}
+WTSA2YR,"{0: 'Participants 3+ years with no lab specimen', '.': 'Missing'}"
+URXUAS,{'.': 'Missing'}
+URXUAS3,{'.': 'Missing'}
+URXUAS5,{'.': 'Missing'}
+URXUAB,{'.': 'Missing'}
+URXUAC,{'.': 'Missing'}
+URXUDMA,{'.': 'Missing'}
+URXUMMA,{'.': 'Missing'}
+URDUMMAL,"{0: 'At or above the detection limit', 1: 'below lower detection limit', '.': 'Missing'}"
+LBDHDD,{'.': 'Missing'}
+LBDHDDSI,{'.': 'Missing'}
+WTSAF2YR,"{0: 'No Lab Result or Not Fasting for 8 to <24 hours', '.': 'Missing'}"
+LBXTR,{'.': 'Missing'}
+LBDTRSI,{'.': 'Missing'}
+LBDLDL,{'.': 'Missing'}
+LBDLDLSI,{'.': 'Missing'}
+LBDLDLM,{'.': 'Missing'}
+LBDLDMSI,{'.': 'Missing'}
+LBDLDLN,{'.': 'Missing'}
+LBDLDNSI,{'.': 'Missing'}
+LBXTC,{'.': 'Missing'}
+LBDTCSI,{'.': 'Missing'}
+URXUCM,{'.': 'Missing'}
+LBXBCR,{'.': 'Missing'}
+LBDBCRSI,{'.': 'Missing'}
+LBXBCO,{'.': 'Missing'}
+LBDBCOSI,{'.': 'Missing'}
+LBXWBCSI,"{400: '400 and over', '.': 'Missing'}"
+LBXLYPCT,{'.': 'Missing'}
+LBXMOPCT,{'.': 'Missing'}
+LBXNEPCT,{'.': 'Missing'}
+LBXEOPCT,{'.': 'Missing'}
+LBXBAPCT,{'.': 'Missing'}
+LBDLYMNO,{'.': 'Missing'}
+LBDMONO,{'.': 'Missing'}
+LBDNENO,{'.': 'Missing'}
+LBDEONO,{'.': 'Missing'}
+LBDBANO,{'.': 'Missing'}
+LBXRBCSI,{'.': 'Missing'}
+LBXHGB,{'.': 'Missing'}
+LBXHCT,{'.': 'Missing'}
+LBXMCVSI,{'.': 'Missing'}
+LBXMCHSI,{'.': 'Missing'}
+LBXMC,{'.': 'Missing'}
+LBXRDW,{'.': 'Missing'}
+LBXPLTSI,{'.': 'Missing'}
+LBXMPSI,{'.': 'Missing'}
+LBXNRBC,{'.': 'Missing'}
+LBXCOT,{'.': 'Missing'}
+URXCOTT,{'.': 'Missing'}
+URXHCTT,{'.': 'Missing'}
+URXANBT,{'.': 'Missing'}
+URXANTT,{'.': 'Missing'}
+URXCOXT,{'.': 'Missing'}
+URXHPBT,{'.': 'Missing'}
+URXNICT,{'.': 'Missing'}
+URXNNCT,{'.': 'Missing'}
+URXNOXT,{'.': 'Missing'}
+URDTNE2,{'.': 'Missing'}
+URDTNE3,{'.': 'Missing'}
+URDTNE6,{'.': 'Missing'}
+URDTNE7,{'.': 'Missing'}
+LBXIGG,"{1: 'positive', 2: 'negative', 3: 'indeterminate', '.': 'Missing'}"
+LBXIGM,"{1: 'positive', 2: 'negative', 3: 'indeterminate', '.': 'Missing'}"
+LBXIGGA,"{1: 'low', 2: 'high', 3: 'indeterminate', '.': 'Missing'}"
+LBXEOA,{'.': 'Missing'}
+PHQ020,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+PHACOFHR,{'.': 'Missing'}
+PHACOFMN,{'.': 'Missing'}
+PHQ030,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+PHAALCHR,{'.': 'Missing'}
+PHAALCMN,{'.': 'Missing'}
+PHQ040,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+PHAGUMHR,{'.': 'Missing'}
+PHAGUMMN,{'.': 'Missing'}
+PHQ050,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+PHAANTHR,{'.': 'Missing'}
+PHAANTMN,{'.': 'Missing'}
+PHQ060,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+PHASUPHR,{'.': 'Missing'}
+PHASUPMN,{'.': 'Missing'}
+PHAFSTHR,{'.': 'Missing'}
+PHAFSTMN,{'.': 'Missing'}
+PHDSESN,"{0: 'morning', 1: 'afternoon', 2: 'evening', '.': 'Missing'}"
+LBXFER,{'.': 'Missing'}
+LBDFERSI,{'.': 'Missing'}
+WTSB2YR,"{0: 'Participants 6+ years with no lab specimen', '.': 'Missing'}"
+URXBCPP,{'.': 'Missing'}
+URXBCEP,{'.': 'Missing'}
+URXBDCP,{'.': 'Missing'}
+URXDBUP,{'.': 'Missing'}
+URXDPHP,{'.': 'Missing'}
+URXTBBA,{'.': 'Missing'}
+WTSSBJ2Y,"{0: 'No lab specimen', '.': 'Missing'}"
+SSIPPP,{'.': 'Missing'}
+SSIPPPL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSBPPP,{'.': 'Missing'}
+SSBPPPL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+WTFOL2YR,"{0: 'No Lab Result', '.': 'Missing'}"
+LBDRFO,{'.': 'Missing'}
+LBDRFOSI,{'.': 'Missing'}
+LBDFOTSI,{'.': 'Missing'}
+LBDFOT,{'.': 'Missing'}
+LBXSF1SI,{'.': 'Missing'}
+LBXSF2SI,{'.': 'Missing'}
+LBXSF3SI,{'.': 'Missing'}
+LBXSF4SI,{'.': 'Missing'}
+LBXSF5SI,{'.': 'Missing'}
+LBXSF6SI,{'.': 'Missing'}
+LBXGH,{'.': 'Missing'}
+SSGLYP,{'.': 'Missing'}
+SSGLYPL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXHA,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBXHBC,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBDHBG,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBDHD,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBXHBS,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBXHCR,"{1: 'Positive', 2: 'Negative', 3: 'Negative Screening HCV Antibody', '.': 'Missing'}"
+LBDHCI,"{1: 'Positive', 2: 'Negative', 3: 'Negative Screening HCV Antibody', 4: 'Positive HCV RNA', '.': 'Missing'}"
+LBXHCG,"{1: 'Genotype 1a', 2: 'Genotype 1b', 3: 'Gen 1 other than a/b/not determined', 4: 'Genotype 2', 5: 'Genotype 3', 6: 'Genotype 4', 7: 'Genotype 5', 8: 'Genotype 6', 9: 'Genotype undetermined', '.': 'Missing'}"
+LBDHEG,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBDHEM,"{1: 'Positive', 2: 'Negative', 3: 'Indeterminate', '.': 'Missing'}"
+LBXHSCRP,{'.': 'Missing'}
+LBXHIVC,"{1: 'HIV-1/2 Reactive', 2: 'HIV-1/2 Non-reactive', '.': 'Missing'}"
+LBXHIV1,"{1: 'Reactive', 2: 'Non-reactive', 3: 'Indeterminate', '.': 'Missing'}"
+LBXHIV2,"{1: 'Reactive', 2: 'Non-reactive', 3: 'Indeterminate', '.': 'Missing'}"
+LBXHNAT,"{1: 'Reactive for HIV-1', 2: 'Non-reactive for HIV-1', '.': 'Missing'}"
+LBXIN,{'.': 'Missing'}
+LBDINSI,{'.': 'Missing'}
+URXUIO,{'.': 'Missing'}
+LBXIRN,{'.': 'Missing'}
+LBDIRNSI,{'.': 'Missing'}
+LBXUIB,{'.': 'Missing'}
+LBDUIBSI,{'.': 'Missing'}
+LBDTIB,{'.': 'Missing'}
+LBDTIBSI,{'.': 'Missing'}
+LBDPCT,{'.': 'Missing'}
+LBXBPB,{'.': 'Missing'}
+LBDBPBSI,{'.': 'Missing'}
+LBXBCD,{'.': 'Missing'}
+LBDBCDSI,{'.': 'Missing'}
+LBXTHG,{'.': 'Missing'}
+LBDTHGSI,{'.': 'Missing'}
+LBXBSE,{'.': 'Missing'}
+LBDBSESI,{'.': 'Missing'}
+LBXBMN,{'.': 'Missing'}
+LBDBMNSI,{'.': 'Missing'}
+URXUHG,{'.': 'Missing'}
+LBXIHG,{'.': 'Missing'}
+LBDIHGSI,{'.': 'Missing'}
+LBXBGE,{'.': 'Missing'}
+LBDBGESI,{'.': 'Missing'}
+LBXBGM,{'.': 'Missing'}
+LBDBGMSI,{'.': 'Missing'}
+URXUBA,{'.': 'Missing'}
+URXUCD,{'.': 'Missing'}
+URXUCO,{'.': 'Missing'}
+URXUCS,{'.': 'Missing'}
+URXUMO,{'.': 'Missing'}
+URXUMN,{'.': 'Missing'}
+URXUPB,{'.': 'Missing'}
+URXUSB,{'.': 'Missing'}
+URXUSN,{'.': 'Missing'}
+URXUTL,{'.': 'Missing'}
+URXUTU,{'.': 'Missing'}
+URXUNI,{'.': 'Missing'}
+URXOP1,{'.': 'Missing'}
+URXOP2,{'.': 'Missing'}
+URXOP3,{'.': 'Missing'}
+URXOP4,{'.': 'Missing'}
+URXOP5,{'.': 'Missing'}
+URXOP6,{'.': 'Missing'}
+URXUP8,{'.': 'Missing'}
+URXNO3,{'.': 'Missing'}
+URXSCN,{'.': 'Missing'}
+LBXPFDE,{'.': 'Missing'}
+LBDPFDEL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXPFHS,{'.': 'Missing'}
+LBDPFHSL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXMPAH,{'.': 'Missing'}
+LBDMPAHL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXPFNA,{'.': 'Missing'}
+LBDPFNAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXPFUA,{'.': 'Missing'}
+LBDPFUAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXNFOA,{'.': 'Missing'}
+LBDNFOAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXBFOA,{'.': 'Missing'}
+LBDBFOAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXNFOS,{'.': 'Missing'}
+LBDNFOSL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+LBXMFOS,{'.': 'Missing'}
+LBDMFOSL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSDONA,{'.': 'Missing'}
+SSDONAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSGENX,{'.': 'Missing'}
+SSGENXL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSCLPF,{'.': 'Missing'}
+SSCLPFL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSFHPS,{'.': 'Missing'}
+SSFHPSL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSPFHA,{'.': 'Missing'}
+SSPFHAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+URXCNP,{'.': 'Missing'}
+URXCOP,{'.': 'Missing'}
+URXECP,{'.': 'Missing'}
+URXECPT,{'.': 'Missing'}
+URXHIBP,{'.': 'Missing'}
+URXMBP,{'.': 'Missing'}
+URXMC1,{'.': 'Missing'}
+URXMCOH,{'.': 'Missing'}
+URXMEP,{'.': 'Missing'}
+URXMHBP,{'.': 'Missing'}
+URXMHH,{'.': 'Missing'}
+URXMHHT,{'.': 'Missing'}
+URXMHNC,{'.': 'Missing'}
+URXMHP,{'.': 'Missing'}
+URXMIB,{'.': 'Missing'}
+URXMNP,{'.': 'Missing'}
+URXMOH,{'.': 'Missing'}
+URXMONP,{'.': 'Missing'}
+URXMZP,{'.': 'Missing'}
+LBXGLU,{'.': 'Missing'}
+LBDGLUSI,{'.': 'Missing'}
+LBXSATSI,{'.': 'Missing'}
+LBXSAL,{'.': 'Missing'}
+LBDSALSI,{'.': 'Missing'}
+LBXSAPSI,{'.': 'Missing'}
+LBXSASSI,{'.': 'Missing'}
+LBXSC3SI,{'.': 'Missing'}
+LBXSBU,{'.': 'Missing'}
+LBDSBUSI,{'.': 'Missing'}
+LBXSCLSI,{'.': 'Missing'}
+LBXSCK,{'.': 'Missing'}
+LBXSCR,{'.': 'Missing'}
+LBDSCRSI,{'.': 'Missing'}
+LBXSGB,{'.': 'Missing'}
+LBDSGBSI,{'.': 'Missing'}
+LBXSGL,{'.': 'Missing'}
+LBDSGLSI,{'.': 'Missing'}
+LBXSGTSI,{'.': 'Missing'}
+LBXSIR,{'.': 'Missing'}
+LBDSIRSI,{'.': 'Missing'}
+LBXSLDSI,{'.': 'Missing'}
+LBXSOSSI,{'.': 'Missing'}
+LBXSPH,{'.': 'Missing'}
+LBDSPHSI,{'.': 'Missing'}
+LBXSKSI,{'.': 'Missing'}
+LBXSNASI,{'.': 'Missing'}
+LBXSTB,{'.': 'Missing'}
+LBDSTBSI,{'.': 'Missing'}
+LBXSCA,{'.': 'Missing'}
+LBDSCASI,{'.': 'Missing'}
+LBXSCH,{'.': 'Missing'}
+LBDSCHSI,{'.': 'Missing'}
+LBXSTP,{'.': 'Missing'}
+LBDSTPSI,{'.': 'Missing'}
+LBXSTR,{'.': 'Missing'}
+LBDSTRSI,{'.': 'Missing'}
+LBXSUA,{'.': 'Missing'}
+LBDSUASI,{'.': 'Missing'}
+LBXTFR,{'.': 'Missing'}
+LBDTFRSI,{'.': 'Missing'}
+URXVOL1,{'.': 'Missing'}
+URDFLOW1,{'.': 'Missing'}
+URDTIME1,{'.': 'Missing'}
+URXVOL2,{'.': 'Missing'}
+URDFLOW2,{'.': 'Missing'}
+URDTIME2,{'.': 'Missing'}
+URXVOL3,{'.': 'Missing'}
+URDFLOW3,{'.': 'Missing'}
+URDTIME3,{'.': 'Missing'}
+URXPREG,"{1: 'Positive', 2: 'Negative', 3: 'Not Done', 4: 'Invalid', '.': 'Missing'}"
+LBDALCSI,{'.': 'Missing'}
+LBXARY,{'.': 'Missing'}
+LBDARYSI,{'.': 'Missing'}
+LBXBEC,{'.': 'Missing'}
+LBDBECSI,{'.': 'Missing'}
+LBXCBC,{'.': 'Missing'}
+LBDCBCSI,{'.': 'Missing'}
+LBXCRY,{'.': 'Missing'}
+LBDCRYSI,{'.': 'Missing'}
+LBXGTC,{'.': 'Missing'}
+LBDGTCSI,{'.': 'Missing'}
+LBXLUZ,{'.': 'Missing'}
+LBDLUZSI,{'.': 'Missing'}
+LBXLYC,{'.': 'Missing'}
+LBDLYCSI,{'.': 'Missing'}
+LBXRPL,{'.': 'Missing'}
+LBDRPLSI,{'.': 'Missing'}
+LBXRST,{'.': 'Missing'}
+LBDRSTSI,{'.': 'Missing'}
+LBXLCC,{'.': 'Missing'}
+LBDLCCSI,{'.': 'Missing'}
+LBXVIA,{'.': 'Missing'}
+LBDVIASI,{'.': 'Missing'}
+LBXVIE,{'.': 'Missing'}
+LBDVIESI,{'.': 'Missing'}
+LBXVIC,{'.': 'Missing'}
+LBDVICSI,{'.': 'Missing'}
+LBXVIDMS,{'.': 'Missing'}
+LBXVD2MS,{'.': 'Missing'}
+LBXVD3MS,{'.': 'Missing'}
+LBXVE3MS,{'.': 'Missing'}
+URX2MH,{'.': 'Missing'}
+URX34M,{'.': 'Missing'}
+URXAAM,{'.': 'Missing'}
+URXAMC,{'.': 'Missing'}
+URXATC,{'.': 'Missing'}
+URXBMA,{'.': 'Missing'}
+URXBPM,{'.': 'Missing'}
+URXCEM,{'.': 'Missing'}
+URXCYHA,{'.': 'Missing'}
+URXCYM,{'.': 'Missing'}
+URXDHB,{'.': 'Missing'}
+URXGAM,{'.': 'Missing'}
+URXHEM,{'.': 'Missing'}
+URXHP2,{'.': 'Missing'}
+URXHPM,{'.': 'Missing'}
+URXIPM3,{'.': 'Missing'}
+URXMAD,{'.': 'Missing'}
+URXMB3,{'.': 'Missing'}
+URXPHE,{'.': 'Missing'}
+URXPHG,{'.': 'Missing'}
+URXPMM,{'.': 'Missing'}
+URXTTC,{'.': 'Missing'}
+WTSSAJ2Y,"{0: 'Participants 3+ years with no surplus lab specimen', '.': 'Missing'}"
+SSHMFA,{'.': 'Missing'}
+SSHMFAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSHMFG,{'.': 'Missing'}
+SSHMFGL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSMUCA,{'.': 'Missing'}
+SSMUCAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSN2FG,{'.': 'Missing'}
+SSN2FGL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+SSPHMA,{'.': 'Missing'}
+SSPHMAL,"{0: 'At or above the detection limit', 1: 'Below lower detection limit', '.': 'Missing'}"
+WTSVOC2Y,"{0: 'No Lab Result', '.': 'Missing'}"
+LBX2DF,{'.': 'Missing'}
+LBX4CE,{'.': 'Missing'}
+LBXV06,{'.': 'Missing'}
+LBXV07N,{'.': 'Missing'}
+LBXV08N,{'.': 'Missing'}
+LBXV1D,{'.': 'Missing'}
+LBXV2A,{'.': 'Missing'}
+LBXV3B,{'.': 'Missing'}
+LBXV4C,{'.': 'Missing'}
+LBXVBF,{'.': 'Missing'}
+LBXVBM,{'.': 'Missing'}
+LBXVBZ,{'.': 'Missing'}
+LBXVBZN,{'.': 'Missing'}
+LBXVC6,{'.': 'Missing'}
+LBXVCB,{'.': 'Missing'}
+LBXVCF,{'.': 'Missing'}
+LBXVCM,{'.': 'Missing'}
+LBXVCT,{'.': 'Missing'}
+LBXVDB,{'.': 'Missing'}
+LBXVDE,{'.': 'Missing'}
+LBXVDEE,{'.': 'Missing'}
+LBXVEA,{'.': 'Missing'}
+LBXVEB,{'.': 'Missing'}
+LBXVEC,{'.': 'Missing'}
+LBXVFN,{'.': 'Missing'}
+LBXVIBN,{'.': 'Missing'}
+LBXVIPB,{'.': 'Missing'}
+LBXVMC,{'.': 'Missing'}
+LBXVME,{'.': 'Missing'}
+LBXVMCP,{'.': 'Missing'}
+LBXVMIK,{'.': 'Missing'}
+LBXVNB,{'.': 'Missing'}
+LBXVOX,{'.': 'Missing'}
+LBXVTC,{'.': 'Missing'}
+LBXVTE,{'.': 'Missing'}
+LBXVTFT,{'.': 'Missing'}
+LBXVTHF,{'.': 'Missing'}
+LBXVTP,{'.': 'Missing'}
+LBXVVB,{'.': 'Missing'}
+LBXVXY,{'.': 'Missing'}
+ACD011A,"{1: 'English', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+ACD011B,"{8: 'Spanish', '.': 'Missing'}"
+ACD011C,"{9: 'Other', '.': 'Missing'}"
+ACD040,"{1: 'Only Spanish,', 2: 'More Spanish than English', 3: 'Both equally', 4: 'More English than Spanish', 5: 'Only English', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ACD110,"{1: 'Only Non-English language', 2: 'More Non-English than English', 3: 'Both equally', 4: 'More English than Non-English', 5: 'Only English', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ALQ111,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ALQ121,"{0: 'Never in the last year', 1: 'Every day', 2: 'Nearly every day', 3: '3 to 4 times a week', 4: '2 times a week', 5: 'Once a week', 6: '2 to 3 times a month', 7: 'Once a month', 8: '7 to 11 times in the last year', 9: '3 to 6 times in the last year', 10: '1 to 2 times in the last year', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+ALQ130,"{15: '15 drinks or more', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+ALQ142,"{0: 'Never in the last year', 1: 'Every day', 2: 'Nearly every day', 3: '3 to 4 times a week', 4: '2 times a week', 5: 'Once a week', 6: '2 to 3 times a month', 7: 'Once a month', 8: '7 to 11 times in the last year', 9: '3 to 6 times in the last year', 10: '1 to 2 times in the last year', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+ALQ270,"{0: 'Never in the last year', 1: 'Every day', 2: 'Nearly every day', 3: '3 to 4 times a week', 4: '2 times a week', 5: 'Once a week', 6: '2 to 3 times a month', 7: 'Once a month', 8: '7 to 11 times in the last year', 9: '3 to 6 times in the last year', 10: '1 to 2 times in the last year', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+ALQ280,"{0: 'Never in the last year', 1: 'Every day', 2: 'Nearly every day', 3: '3 to 4 times a week', 4: '2 times a week', 5: 'Once a week', 6: '2 to 3 times a month', 7: 'Once a month', 8: '7 to 11 times in the last year', 9: '3 to 6 times in the last year', 10: '1 to 2 times in the last year', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+ALQ290,"{0: 'Never in the last year', 1: 'Every day', 2: 'Nearly every day', 3: '3 to 4 times a week', 4: '2 times a week', 5: 'Once a week', 6: '2 to 3 times a month', 7: 'Once a month', 8: '7 to 11 times in the last year', 9: '3 to 6 times in the last year', 10: '1 to 2 times in the last year', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+ALQ151,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ALQ170,"{30: 'More than 20 times a month', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+AUQ054,"{1: 'Excellent', 2: 'Good', 3: 'A little trouble', 4: 'Moderate hearing trouble', 5: 'A lot of trouble', 6: 'Deaf', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ070,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ090,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ400,"{1: 'Before age 1 year old', 2: 'Between 2 and 5 years old', 3: 'Between 6 and 19 years old', 4: 'Between 20 and 39 years old', 5: 'Between 40 and 59 years old', 6: 'Between 60 and 69 years old', 7: '70 years and older', 8: 'No hearing loss', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ410a,"{1: 'Genetic/Hereditary causes', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ410b,"{2: 'Ear infections (including fluid in ears)', '.': 'Missing'}"
+AUQ410c,"{3: 'Ear diseases (Otosclerosis, Menieres, Tumor)', '.': 'Missing'}"
+AUQ410d,"{4: 'Illness/Infections (Measles, Meningitis, Mumps)', '.': 'Missing'}"
+AUQ410e,"{5: 'Drugs/Medications', '.': 'Missing'}"
+AUQ410f,"{6: 'Head or neck injury/trauma', '.': 'Missing'}"
+AUQ410g,"{7: 'Loud brief explosive noise/sounds', '.': 'Missing'}"
+AUQ410h,"{8: 'Noise exposure, long-term (machinery, etc.)', '.': 'Missing'}"
+AUQ410i,"{9: 'Aging, getting older', '.': 'Missing'}"
+AUQ410j,"{10: 'Other causes', '.': 'Missing'}"
+AUQ156,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ420,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ430,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ139,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ144,"{1: 'Less than a year ago', 2: '1 year to 4 years ago', 3: '5 to 9 years ago', 4: 'Ten or more years ago', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ147,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ149a,"{1: 'A hearing aid', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ149b,"{2: 'A personal sound amplifier', '.': 'Missing'}"
+AUQ149c,"{3: 'A Cochlear implant', '.': 'Missing'}"
+AUQ153,"{1: 'Less than 1 hour a day', 2: '1 to 3 hours a day', 3: '4 to 7 hours a day', 4: '8 or more hours per day', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ630,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ440,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ450a,"{1: 'Speech-language', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ450b,"{2: 'Reading', '.': 'Missing'}"
+AUQ450c,"{3: 'Hearing or listening skills', '.': 'Missing'}"
+AUQ450d,"{4: 'Intellectual disability', '.': 'Missing'}"
+AUQ450e,"{5: 'Movement or mobility difficulties', '.': 'Missing'}"
+AUQ450f,"{6: 'Other developmental or disability problems', '.': 'Missing'}"
+AUQ460,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ470,"{1: 'Less than 1 year', 2: '1 to 2 years', 3: '3 to 4 years', 4: '5 or more years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ101,"{1: 'Always', 2: 'Usually', 3: 'About half the time', 4: 'Seldom', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ110,"{1: 'Always', 2: 'Usually', 3: 'About half the time', 4: 'Seldom', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ480,"{1: 'Always', 2: 'Usually', 3: 'About half the time', 4: 'Seldom', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ490,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ191,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ250,"{1: 'Less than three months', 2: 'Three months to a year', 3: '1 to 4 years', 4: '5 to 9 years', 5: 'Ten or more years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ255,"{1: 'Almost always', 2: 'At least once a day', 3: 'At least once a week', 4: 'At least once a month', 5: 'Less frequently than once a month', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ260,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ270,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ280,"{1: 'No problem', 2: 'A small problem', 3: 'A moderate problem', 4: 'A big problem', 5: 'A very big problem', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ500,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ300,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ310,"{1: '1 to less than 100 rounds', 2: '100 to less than 1000 rounds', 3: '1000 to less than 10,000 rounds', 4: '10,000 to less than 50,000 rounds', 5: '50,000 rounds or more', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ320,"{1: 'Always', 2: 'Usually', 3: 'About half the time', 4: 'Seldom', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ330,"{1: 'Yes', 2: 'No', 3: 'Never worked', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ340,"{1: 'Less than 3 months', 2: '3 to 11 months', 3: '1 to 2 years', 4: '3 to 4 years', 5: '5 to 9 years', 6: '10 to 14 years', 7: '15 or more years', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ350,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ360,"{1: 'Less than 3 months', 2: '3 to 11 months', 3: '1 to 2 years', 4: '3 to 4 years', 5: '5 to 9 years', 6: '10 to 14 years', 7: '15 or more years', 8: 'Not exposed', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+AUQ370,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ510,"{1: 'Less than 1 year', 2: '1 to 2 years', 3: '3 to 4 years', 4: '5 or more years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AUQ380,"{1: 'Always', 2: 'Usually', 3: 'About half the time', 4: 'Seldom', 5: 'Never', 6: 'No noise exposure past 12 months', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+BPQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ030,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPD035,"{12: '12 years or younger', 80: '80 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+BPQ040A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ050A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ070,"{1: 'Less than 1 year ago,', 2: '1 year but less than 2 years ago,', 3: '2 years but less than 5 years ago, or', 4: '5 years or more?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ090D,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+BPQ100D,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ001,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ002,"{1: 'Yes', 2: 'No', 3: 'Never walks uphill or hurries', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ003,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ004,"{1: 'Stop or slow down', 2: 'Continue at the same pace', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ005,"{1: 'Relieved', 2: 'Not Relieved', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ006,"{1: '10 minutes or less', 2: 'More than 10 minutes', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ009A,"{1: 'Pain in right arm', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+CDQ009B,"{2: 'Pain in right chest', '.': 'Missing'}"
+CDQ009C,"{3: 'Pain in neck', '.': 'Missing'}"
+CDQ009D,"{4: 'Pain in upper sternum', '.': 'Missing'}"
+CDQ009E,"{5: 'Pain in lower sternum', '.': 'Missing'}"
+CDQ009F,"{6: 'Pain in left chest', '.': 'Missing'}"
+CDQ009G,"{7: 'Pain in left arm', '.': 'Missing'}"
+CDQ009H,"{8: 'Pain in epigastric area', '.': 'Missing'}"
+CDQ008,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CDQ010,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBD071,"{8400: '8400 and over', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+CBD091,"{8400: '8400 and over', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+CBD111,"{8400: '8400 and over', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+CBD121,"{8400: '8400 and over', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+CBD131,"{8400: '8400 and over', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+CBQ502,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ503,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ506,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ536,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ541,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ551,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ581,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ586,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ830,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ835,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ840,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ845,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ850,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ855,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ860,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ865,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ870,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ875,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ880,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ885,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ890,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ895,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ900,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ645,"{1: 'Less than 500 calories', 2: '500-1000 calories', 3: '1001-1500 calories', 4: '1501-2000 calories', 5: '2001-2500 calories', 6: '2501-3000 calories', 7: 'More than 3000 calories', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+CBQ700,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ780,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ750,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ760,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ770,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ905,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ910,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ685,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ915,"{1: 'Only percent daily value', 2: 'Percent daily value more often', 3: 'Both percent daily value and amount of nutrients about the same', 4: 'Amount of nutrients more often', 5: 'Only amount of nutrients', 6: 'Do not use either', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ925,"{1: '5 % of the calories in one serving come from Vit A', 2: 'One serving contains 5% Vit A by weight', 3: 'One serving supplies 5% of the Vit A you should have in a day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ930,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ935,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ945,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ950,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely', 5: 'Never', 6: 'Never seen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ738a,"{1: 'To watch my weight and/or lose weight', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+CBQ738b,"{2: 'A family member is trying to watch weight and/or lose weight', '.': 'Missing'}"
+CBQ738c,"{3: 'To watch for diabetes, high triglycerides, high cholesterol, high blood pressure or other health conditions', '.': 'Missing'}"
+CBQ738d,"{4: 'A family member has a health condition (for example, diabetes, high triglycerides, high cholesterol, high blood pressure, etc)', '.': 'Missing'}"
+CBQ738e,"{5: 'I am allergic to certain food(s)', '.': 'Missing'}"
+CBQ738f,"{6: 'My family member(s) has food allergies', '.': 'Missing'}"
+CBQ738g,"{7: 'To avoid certain ingredients (such as MSG, high fructose corn syrup, color dyes, artificial preservatives, or hydrogenated oils, etc.)', '.': 'Missing'}"
+CBQ738h,"{8: ""To increase certain nutrients in my/family's diet (such as fiber, calcium, etc)"", '.': 'Missing'}"
+CBQ738i,"{9: 'To compare which brand/food is better/healthier', '.': 'Missing'}"
+CBQ738j,"{10: 'To make better/healthier choices for me and my family', '.': 'Missing'}"
+CBQ738k,"{11: 'To watch for calorie content or certain nutrients (such as sodium, trans fat, sugar, carbohydrates, or protein, etc.)', '.': 'Missing'}"
+CBQ738cd,"{91: 'Others', '.': 'Missing'}"
+CBQ698a,"{1: ""I don't have time"", 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+CBQ698b,"{2: 'The print is too small for me to read', '.': 'Missing'}"
+CBQ698c,"{3: ""I'm satisfied with my health so there is no need for me to check"", '.': 'Missing'}"
+CBQ698d,"{4: 'I have a good diet so there is no need to check labels', '.': 'Missing'}"
+CBQ698e,"{5: ""I usually buy foods that I'm used to, so I don't feel that I need to check labels"", '.': 'Missing'}"
+CBQ698f,"{6: ""I buy what I or my family like, I don't care about the labels"", '.': 'Missing'}"
+CBQ698g,"{7: ""I don't think the food labels are important to me"", '.': 'Missing'}"
+CBQ698h,"{8: ""I won't know what to look for even if I read the labels"", '.': 'Missing'}"
+CBQ698i,"{9: ""I can't read English that well"", '.': 'Missing'}"
+CBQ698cd,"{91: 'Others', '.': 'Missing'}"
+CBQ695a,"{1: 'The amount of this food that people should eat', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ695b,"{2: 'The amount of this food that people usually eat', '.': 'Missing'}"
+CBQ695c,"{3: 'Something that makes it easier to compare foods', '.': 'Missing'}"
+CBQ785,"{1: 'English', 2: 'Spanish', 3: 'English and Spanish', 4: 'Other', '.': 'Missing'}"
+DBD930,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD935,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD940,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD945,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBD760,"{80: '>= 80 years of age', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+CBD765,"{1: 'Less than high school', 2: 'High school diploma (including GED)', 3: 'More than high school', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBD770,"{1: 'Male', 2: 'Female', '.': 'Missing'}"
+HSD010,"{1: 'Excellent', 2: 'Very good,', 3: 'Good,', 4: 'Fair, or', 5: 'Poor?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HSQ500,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HSQ510,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HSQ520,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HSQ571,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HSQ580,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7', 8: '8', 9: '9', 10: '10', 11: '11', 12: '12', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+HSQ590,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HSAQUEX,"{1: 'Dietary Recall Component -- B(1-11)', 2: 'MEC CAPI Questionnaire -- B(12-150)', '.': 'Missing'}"
+DED031,"{1: 'Get a severe sunburn with blisters', 2: 'A severe sunburn for a few days with peeling', 3: 'Mildly burned with some tanning', 4: 'Turning darker without a sunburn', 5: 'Nothing would happen in half an hour', 6: 'Other', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DEQ034A,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely, or', 5: 'Never?', 6: ""Don't go out in the sun"", 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DEQ034C,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely, or', 5: 'Never?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DEQ034D,"{1: 'Always', 2: 'Most of the time', 3: 'Sometimes', 4: 'Rarely, or', 5: 'Never?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DEQ038G,"{1: 'Enter number', 2: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DEQ038Q,"{20: '20 or more times', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+DED120,"{0: 'No time spent outdoors', 14: '1-14 minutes', 3333: 'Does not work or go to school', 7777: 'Refused', 9999: ""Don't Know"", '.': 'Missing'}"
+DED125,"{0: 'No time spent outdoors', 14: '1-14 minutes', 3333: 'At work or at school 9 to 5 seven days a week', 7777: 'Refused', 9999: ""Don't Know"", '.': 'Missing'}"
+DIQ010,"{1: 'Yes', 2: 'No', 3: 'Borderline', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DID040,"{80: '80 years or older', 666: 'Less than 1 year', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DIQ160,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ170,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ172,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ175A,"{10: 'Family history', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DIQ175B,"{11: 'Overweight', '.': 'Missing'}"
+DIQ175C,"{12: 'Age', '.': 'Missing'}"
+DIQ175D,"{13: 'Poor diet', '.': 'Missing'}"
+DIQ175E,"{14: 'Race', '.': 'Missing'}"
+DIQ175F,"{15: 'Had a baby weighed over 9 lbs. at birth', '.': 'Missing'}"
+DIQ175G,"{16: 'Lack of physical activity', '.': 'Missing'}"
+DIQ175H,"{17: 'High blood pressure', '.': 'Missing'}"
+DIQ175I,"{18: 'High blood sugar', '.': 'Missing'}"
+DIQ175J,"{19: 'High cholesterol', '.': 'Missing'}"
+DIQ175K,"{20: 'Hypoglycemic', '.': 'Missing'}"
+DIQ175L,"{21: 'Extreme hunger', '.': 'Missing'}"
+DIQ175M,"{22: 'Tingling/numbness in hands or feet', '.': 'Missing'}"
+DIQ175N,"{23: 'Blurred vision', '.': 'Missing'}"
+DIQ175O,"{24: 'Increased fatigue', '.': 'Missing'}"
+DIQ175P,"{25: 'Anyone could be at risk', '.': 'Missing'}"
+DIQ175Q,"{26: 'Doctor warning', '.': 'Missing'}"
+DIQ175R,"{27: 'Other, specify', '.': 'Missing'}"
+DIQ175S,"{28: 'Gestational diabetes', '.': 'Missing'}"
+DIQ175T,"{29: 'Frequent urination', '.': 'Missing'}"
+DIQ175U,"{30: 'Thirst', '.': 'Missing'}"
+DIQ175V,"{31: 'Craving for sweet/eating a lot of sugar', '.': 'Missing'}"
+DIQ175W,"{32: 'Medication', '.': 'Missing'}"
+DIQ175X,"{33: 'Polycystic ovarian syndrome', '.': 'Missing'}"
+DIQ180,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ050,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DID060,"{666: 'Less than 1 month', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DIQ060U,"{1: 'Months', 2: 'Years', '.': 'Missing'}"
+DIQ070,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ230,"{1: '1 year ago or less', 2: 'More than 1 year ago but no more than 2 years ago', 3: 'More than 2 years ago but no more than 5 years ago', 4: 'More than 5 years ago', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ240,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DID250,"{0: 'None', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DID260,"{0: 'Never', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DIQ260U,"{1: 'Per day', 2: 'Per week', 3: 'Per month', 4: 'Per year', '.': 'Missing'}"
+DIQ275,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ280,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DIQ291,"{1: 'Less than 6', 2: 'Less than 7', 3: 'Less than 8', 4: 'Less than 9', 5: 'Less than 10', 6: 'Provider did not specify goal', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DIQ300S,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DIQ300D,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DID310S,"{6666: 'Provider did not specify goal', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DID310D,"{6666: 'Provider did not specify goal', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DID320,"{5555: 'Never heard of LDL', 6666: 'Never had cholesterol test', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DID330,"{6666: 'Provider did not specify goal', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DID341,"{0: 'None', 7777: 'Refused', 9999: ""Don't know/not sure"", '.': 'Missing'}"
+DID350,"{0: 'None', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DIQ350U,"{1: 'Per day', 2: 'Per week', 3: 'Per month', 4: 'Per year', '.': 'Missing'}"
+DIQ360,"{1: 'Less than 1 month', 2: '1-12 months', 3: '13-24 months', 4: 'Greater than 2 years', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DIQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ010,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD030,"{0: 'Still breastfeeding', 666666: 'More than 1095 days (3-year) old', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+DBD041,"{0: 'Never', 666666: 'More than 365 days (1-year) old', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+DBD050,"{0: 'Still drinking formula', 666666: 'More than 1095 days (3-year) old', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+DBD055,"{0: 'Never', 666666: 'More than 730 days (2-year) old', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+DBD061,"{0: 'Never', 666666: 'More than 1095 days (3-year) old', 777777: 'Refused', 999999: ""Don't know"", '.': 'Missing'}"
+DBQ073A,"{10: 'Whole or regular milk', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DBQ073B,"{11: '2% fat or reduced-fat milk', '.': 'Missing'}"
+DBQ073C,"{12: '1% fat or low-fat milk (includes 0.5% fat milk or low-fat milk not further specified),', '.': 'Missing'}"
+DBQ073D,"{13: 'fat-free, skim or nonfat milk, or', '.': 'Missing'}"
+DBQ073E,"{14: 'soy milk, or', '.': 'Missing'}"
+DBQ073U,"{30: 'Another type?', '.': 'Missing'}"
+DBQ700,"{1: 'Excellent', 2: 'Very good', 3: 'Good', 4: 'Fair', 5: 'Poor', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ197,"{0: 'Never', 1: 'Rarely-less than once a week', 2: 'Sometimes-once a week or more, but less than once a day, or', 3: 'Often-once a day or more?', 4: 'Varied', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ223A,"{10: 'Whole or regular,', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DBQ223B,"{11: '2% fat or reduced-fat milk,', '.': 'Missing'}"
+DBQ223C,"{12: '1% fat or low-fat milk (includes 0.5% fat milk or low-fat milk not further specified),', '.': 'Missing'}"
+DBQ223D,"{13: 'Skim, nonfat, or 0.5% fat milk (includes liquid or reconstituted from dry),', '.': 'Missing'}"
+DBQ223E,"{14: 'soy milk, or', '.': 'Missing'}"
+DBQ223U,"{30: 'Another type?', '.': 'Missing'}"
+DBQ229,"{1: ""{I've/He's/She's} been a regular milk drinker for most or all of {my/his/her} life, including {my/his/her} childhood"", 2: ""{I've/He's/She's} never been a regular milk drinker;"", 3: ""{My/His/Her} milk drinking has varied over {my/his/her} life-sometimes {I've/he's/she's} been a regular milk drinker"", 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ235A,"{0: 'Never', 1: 'Rarely-less than once a week', 2: 'Sometimes-once a week or more, but less than once a day', 3: 'Often-once a day or more', 4: 'Varied', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ235B,"{0: 'Never', 1: 'Rarely-less than once a week', 2: 'Sometimes-once a week or more, but less than once a day', 3: 'Often-once a day or more', 4: 'Varied', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ235C,"{0: 'Never', 1: 'Rarely-less than once a week', 2: 'Sometimes-once a week or more, but less than once a day', 3: 'Often-once a day or more', 4: 'Varied', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ301,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ330,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ360,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ370,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD381,"{0: 'None', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DBQ390,"{1: 'Free', 2: 'Reduced price', 3: 'Full price', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ400,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD411,"{0: 'None', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DBQ421,"{1: 'Free', 2: 'Reduced price', 3: 'Full price', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ424,"{1: 'Yes', 2: 'No', 3: 'Did not attend summer program', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBD895,"{0: 'None', 5555: 'More than 21 meals per week', 7777: 'Refused', 9999: 'Dont Know', '.': 'Missing'}"
+DBD900,"{0: 'None', 5555: 'More than 21 meals per week', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DBD905,"{0: 'Never', 6666: 'More than 90 times in 30 days', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DBD910,"{0: 'Never', 6666: 'More than 90 times in 30 days', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+CBQ596,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ606,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+CBQ611,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ930,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ935,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ940,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DBQ945,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ010,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ040,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ050,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ100,"{1: 'Daily', 2: 'Weekly', 3: 'Monthly', 4: 'A few times a year', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ110,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ130,"{1: 'A little', 2: 'A lot', 3: 'Somewhere in between a little and a lot', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ140,"{1: 'Daily', 2: 'Weekly', 3: 'Monthly', 4: 'A few times a year', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ150,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DLQ170,"{1: 'A little', 2: 'A lot', 3: 'Somewhere in between a little and a lot', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ200,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ210,"{11: '11 years or under', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ211,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ213,"{11: '11 years or under', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ215Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DUQ215U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ217,"{1: 'Once per month', 2: '2-3 times per month', 3: '4-8 times per month (about 1-2 times per   week)', 4: '9-24 times per month (about 3-6 times per   week)', 5: '25-30 times per month (one or more times   per day)', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ219,"{1: '1 per day', 2: '2 per day', 3: '3-5 per day', 4: 'Six or more per day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ220Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DUQ220U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ230,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ240,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ250,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ260,"{11: '11 years or under', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ270Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DUQ270U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ272,"{1: 'Once', 2: '2-5 times', 3: '6-19 times', 4: '20-49 times', 5: '50-99 times', 6: '100 times or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DUQ280,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ290,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ300,"{11: '11 years or under', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ310Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DUQ310U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ320,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DUQ330,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ340,"{11: '11 years or under', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ350Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DUQ350U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ352,"{1: 'Once', 2: '2-5 times', 3: '6-19 times', 4: '20-49 times', 5: '50-99 times', 6: '100 times or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DUQ360,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DUQ370,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ380A,"{1: 'Cocaine', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ380B,"{2: 'Heroin', '.': 'Missing'}"
+DUQ380C,"{3: 'Methamphetamine', '.': 'Missing'}"
+DUD380F,"{6: 'Steroids or any other drugs', '.': 'Missing'}"
+DUQ390,"{11: '11 years or under', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+DUQ400Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+DUQ400U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ410,"{1: 'Once', 2: '2-5 times', 3: '6-19 times', 4: '20-49 times', 5: '50-99 times', 6: '100 times or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+DUQ420,"{1: 'More than once a day,', 2: 'About once a day,', 3: 'At least once a week but not every day,', 4: 'At least once a month but not every week,', 5: 'Less than once a month', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DUQ430,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ECD010,"{14: '14 years or younger', 45: '45 years or older', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+ECQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ECD070A,"{3: '3 pounds or less', 11: '11 pounds or more', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+ECD070B,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+ECQ080,"{1: 'More than 5-1/2 lbs. (2500 g), or', 2: 'Less than 5-1/2 lbs. (2500 g)?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ECQ090,"{1: 'More than 9 lbs. (4100 g), or', 2: 'Less than 9 lbs. (4100 g)?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHQ030E,"{1: 'Overweight', 2: 'Underweight', 3: 'About the right weight', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ080E,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+ECQ150,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD032A,"{1: 'Often true', 2: 'Sometimes true', 3: 'Never true', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD032B,"{1: 'Often true', 2: 'Sometimes true', 3: 'Never true', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD032C,"{1: 'Often true', 2: 'Sometimes true', 3: 'Never true', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD041,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD052,"{1: 'Almost every month,', 2: 'Some months but not every month, or', 3: 'Only 1 or 2 months?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD061,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD071,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD081,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD092,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD102,"{1: 'Almost every month,', 2: 'Some months but not every month, or', 3: 'Only 1 or 2 months?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD032D,"{1: 'Often true', 2: 'Sometimes true', 3: 'Never true', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD032E,"{1: 'Often true', 2: 'Sometimes true', 3: 'Never true', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD032F,"{1: 'Often true', 2: 'Sometimes true', 3: 'Never true', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD111,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD122,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD132,"{1: 'Almost every month,', 2: 'Some months but not every month, or', 3: 'Only 1 or 2 months?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD141,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD146,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSDHH,"{1: 'HH full food security: 0', 2: 'HH marginal food security: 1-2', 3: 'HH low food security: 3-5 (HH w/o child) / 3-7 (HH w/ child)', 4: 'HH very low food security: 6-10 (HH w/o child) / 8-18 (HH w/ child)', '.': 'Missing'}"
+FSDAD,"{1: 'AD full food security: 0', 2: 'AD marginal food security: 1-2', 3: 'AD low food security: 3-5', 4: 'AD very low food security: 6-10', '.': 'Missing'}"
+FSDCH,"{1: 'CH full or marginal food security: 0', 2: 'CH marginal food security: 1', 3: 'CH low food security: 2-4', 4: 'CH very low food security: 5-8', '.': 'Missing'}"
+FSD151,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSQ165,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD165N,"{7: '7 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSQ012,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD012N,"{7: '7 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSD230,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD230N,"{7: '7 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSD795,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSD225,"{55555: 'More than 300 days', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+FSD235,"{55555: 'More than $1,000', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+FSD855,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD860,"{77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+FSQ865,"{77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+FSQ162,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSQ760,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD760N,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSQ653,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD660ZC,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD675,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD680,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD670ZC,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+FSQ690,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSQ695,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSD652ZW,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD672ZW,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+FSD652CW,"{1: 'Yes', 2: 'No', 3: 'Currently pregnant', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+FSD660ZW,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HIQ011,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HIQ031A,"{14: 'Covered by private insurance', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+HIQ031B,"{15: 'Covered by Medicare', '.': 'Missing'}"
+HIQ031C,"{16: 'Covered by Medi-Gap', '.': 'Missing'}"
+HIQ031D,"{17: 'Covered by Medicaid', '.': 'Missing'}"
+HIQ031E,"{18: 'Covered by CHIP', '.': 'Missing'}"
+HIQ031F,"{19: 'Covered by military health care', '.': 'Missing'}"
+HIQ031H,"{21: 'Covered by state-sponsored health plan', '.': 'Missing'}"
+HIQ031I,"{22: 'Covered by other government insurance', '.': 'Missing'}"
+HIQ031J,"{23: 'Covered by single service plan', '.': 'Missing'}"
+HIQ031AA,"{40: 'No coverage of any type', '.': 'Missing'}"
+HIQ260,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HIQ105,"{1: 'Yes', 2: 'No', '.': 'Missing'}"
+HIQ270,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HIQ210,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HEQ010,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HEQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HEQ030,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HEQ040,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HUQ010,"{1: 'Excellent,', 2: 'Very good,', 3: 'Good,', 4: 'Fair, or', 5: 'Poor?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HUQ020,"{1: 'Better,', 2: 'Worse, or', 3: 'About the same?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HUQ030,"{1: 'Yes', 2: 'There is no place', 3: 'There is more than one place', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HUQ041,"{1: 'Clinic or health center', 2: ""Doctor's office or HMO"", 3: 'Hospital emergency room', 4: 'Hospital outpatient department', 5: 'Some other place', 6: ""Doesn't go to one place most often"", 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+HUQ051,"{0: 'None', 1: '1', 2: '2 to 3', 3: '4 to 5', 4: '6 to 7', 5: '8 to 9', 6: '10 to 12', 7: '13 to 15', 8: '16 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+HUQ061,"{1: '6 months or less,', 2: 'more than 6 months, but not more than 1 year ago,', 3: 'more than 1 year, but not more than 2 years ago,', 4: 'more than 2 years, but not more than 5 years ago,', 5: 'more than 5 years ago, or', 6: 'Never?', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+HUQ071,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HUD080,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6 times or more', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+HUQ090,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+HOD050,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7', 8: '8', 9: '9', 10: '10', 11: '11', 12: '12', 13: '13 or more', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+HOQ065,"{1: 'Owned or being bought', 2: 'Rented', 3: 'Other arrangement', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IMQ011,"{1: 'Yes, at least 2 doses', 2: 'Less than 2 doses', 3: 'No doses', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IMQ020,"{1: 'Yes at least 3 doses', 2: 'Less than 3 doses', 3: 'No doses', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IMQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IMQ070,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IMQ081A,"{1: 'CERVARIX', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IMQ081B,"{2: 'GARDASIL', '.': 'Missing'}"
+IMQ081C,"{3: 'GARDASIL 9', '.': 'Missing'}"
+IMQ081D,"{4: 'GARDASIL (not sure wich one)', '.': 'Missing'}"
+IMQ090,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+IMQ100,"{1: '1 Dose', 2: '2 Doses', 3: '3 Doses', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ012,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ030,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ090,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ132,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ140,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ150,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IND235,"{1: '$0 - $399', 2: '$400 - $799', 3: '$800 - $1,249', 4: '$1,250 - $1,649', 5: '$1,650 - $2,099', 6: '$2,100 - $2,899', 7: '$2,900 - $3,749', 8: '$3,750 - $4,599', 9: '$4,600 - $5,399', 10: '$5,400 - $6,249', 11: '$6,250 - $8,399', 12: '$8,400 and over', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+INDFMMPI,"{5: 'Value greater than or equal to 5.00', '.': 'Missing'}"
+INDFMMPC,"{1: 'Monthly poverty level index <= 1.30', 2: '1.30 < Monthly poverty level index <= 1.85', 3: 'Monthly poverty level index > 1.85', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+INQ300,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+IND310,"{1: '$0 - $3,000', 2: '$3,001 - $5,000', 3: '$5,001 - $10,000', 4: '$10,001 - $15,000', 5: '$15,001 - $20,000', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+INQ320,"{1: 'In my car', 2: 'In a car that belongs to someone I live with', 3: 'In a car that belongs to someone who lives elsewhere', 4: 'Walk', 5: 'Ride bicycle', 6: 'Bus, subway or other public transit', 7: 'Taxi or other paid driver', 8: 'Someone else delivers groceries', 9: 'Other', 66: 'No usual mode of traveling to store', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+KIQ022,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ025,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ026,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ029,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ005,"{1: 'Never', 2: 'Less than once a month', 3: 'A few times a month', 4: 'A few times a week', 5: 'Every day and/or night', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ010,"{1: 'Drops', 2: 'Small splashes', 3: 'More', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ042,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ430,"{1: 'Less than once a month', 2: 'A few times a month', 3: 'A few times a week', 4: 'Every day and/or night', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ044,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ450,"{1: 'Less than once a month', 2: 'A few times a month', 3: 'A few times a week', 4: 'Every day and/or night', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ046,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ470,"{1: 'Less than once a month', 2: 'A few times a month', 3: 'A few times a week', 4: 'Every day and/or night', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ050,"{1: 'Not at all', 2: 'Only a little', 3: 'Somewhat', 4: 'Very much', 5: 'Greatly', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ052,"{1: 'Not at all', 2: 'Only a little', 3: 'Somewhat', 4: 'Very much', 5: 'Greatly', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+KIQ480,"{0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5 or more', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ010,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ025,"{80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ035,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ040,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ050,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+AGQ030,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ053,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ092,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD093,"{1: 'Before 1972', 2: '1972 - 1991', 3: '1992 to present', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ149,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ151,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHD018,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+MCQ160a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180a,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ195,"{1: 'Osteoarthritis or degenerative arthritis', 2: 'Rheumatoid arthritis', 3: 'Psoriatic arthritis', 4: 'Other', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ160n,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180n,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180b,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180c,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160d,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180d,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160e,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180e,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160f,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180f,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160m,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ170m,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180m,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160g,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180g,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160k,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ170k,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180k,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ160o,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ160l,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ170l,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCD180l,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ500,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ510a,"{1: 'Fatty liver', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+MCQ510b,"{2: 'Liver fibrosis', '.': 'Missing'}"
+MCQ510c,"{3: 'Liver cirrhosis', '.': 'Missing'}"
+MCQ510d,"{4: 'Viral hepatitis', '.': 'Missing'}"
+MCQ510e,"{5: 'Autoimmune hepatitis', '.': 'Missing'}"
+MCQ510f,"{6: 'Other liver disease', '.': 'Missing'}"
+MCQ520,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ530,"{1: 'Right upper abdomen', 2: 'Mid upper abdomen', 3: 'Left upper abdomen', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ540,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ550,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ560,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ570,"{80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ203,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ206,"{80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ220,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ230a,"{10: 'Bladder', 11: 'Blood', 12: 'Bone', 13: 'Brain', 14: 'Breast', 15: 'Cervix (cervical)', 16: 'Colon', 17: 'Esophagus (esophageal)', 18: 'Gallbladder', 19: 'Kidney', 20: 'Larynx/ windpipe', 21: 'Leukemia', 22: 'Liver', 23: 'Lung', 24: ""Lymphoma/ Hodgkin's disease"", 25: 'Melanoma', 26: 'Mouth/tongue/lip', 27: 'Nervous system', 28: 'Ovary (ovarian)', 29: 'Pancreas (pancreatic)', 30: 'Prostate', 31: 'Rectum (rectal)', 32: 'Skin (non-melanoma)', 33: ""Skin (don't know what kind)"", 34: 'Soft tissue (muscle or fat)', 35: 'Stomach', 36: 'Testis (testicular)', 37: 'Thyroid', 38: 'Uterus (uterine)', 39: 'Other', 66: 'More than 3 kinds', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+MCD240a,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ230b,"{10: 'Bladder', 11: 'Blood', 12: 'Bone', 13: 'Brain', 14: 'Breast', 15: 'Cervix (cervical)', 16: 'Colon', 17: 'Esophagus (esophageal)', 18: 'Gallbladder', 19: 'Kidney', 20: 'Larynx/ windpipe', 21: 'Leukemia', 22: 'Liver', 23: 'Lung', 24: 'Lymphoma/ Hodgkins disease', 25: 'Melanoma', 26: 'Mouth/tongue/lip', 27: 'Nervous system', 28: 'Ovary (ovarian)', 29: 'Pancreas (pancreatic)', 30: 'Prostate', 31: 'Rectum (rectal)', 32: 'Skin (non-melanoma)', 33: ""Skin (don't know what kind)"", 34: 'Soft tissue (muscle or fat)', 35: 'Stomach', 36: 'Testis (testicular)', 37: 'Thyroid', 38: 'Uterus (uterine)', 39: 'Other', 66: 'More than 3 kinds', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+MCD240b,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ230c,"{10: 'Bladder', 11: 'Blood', 12: 'Bone', 13: 'Brain', 14: 'Breast', 15: 'Cervix (cervical)', 16: 'Colon', 17: 'Esophagus (esophageal)', 18: 'Gallbladder', 19: 'Kidney', 20: 'Larynx/ windpipe', 21: 'Leukemia', 22: 'Liver', 23: 'Lung', 24: 'Lymphoma/ Hodgkins disease', 25: 'Melanoma', 26: 'Mouth/tongue/lip', 27: 'Nervous system', 28: 'Ovary (ovarian)', 29: 'Pancreas (pancreatic)', 30: 'Prostate', 31: 'Rectum (rectal)', 32: 'Skin (non-melanoma)', 33: ""Skin (don't know what kind)"", 34: 'Soft tissue (muscle or fat)', 35: 'Stomach', 36: 'Testis (testicular)', 37: 'Thyroid', 38: 'Uterus (uterine)', 39: 'Other', 66: 'More than 3 kinds', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+MCD240c,"{16: '16 years or younger', 80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+MCQ230d,"{66: 'More than 3 kinds', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+MCQ300b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ300c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ300a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ366a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ366b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ366c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ366d,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ371a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ371b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ371c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+MCQ371d,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ230,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't Know"", '.': 'Missing'}"
+DPQ010,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ020,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ030,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ040,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ050,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ060,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ070,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ080,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ090,"{0: 'Not at all', 1: 'Several days', 2: 'More than half the days', 3: 'Nearly every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+DPQ100,"{0: 'Not at all difficult,', 1: 'Somewhat difficult,', 2: 'Very difficult,', 3: 'Extremely difficult', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OCD150,"{1: 'Working at a job or business,', 2: 'With a job or business but not at work,', 3: 'Looking for work, or', 4: 'Not working at a job or business?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OCQ180,"{5: '1-5 Hours', 80: '80 Hours or more', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OCQ210,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OCQ260,"{1: 'An employee of a private company, business, or individual for wages, salary, or commission.', 2: 'A federal government employee', 3: 'A state government employee', 4: 'A local government employee', 5: 'Self-employed in own business, professional practice or farm.', 6: 'Working without pay in family business or farm', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OCD270,"{0: 'Less than 1 month', 480: '480 Months or more', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OCQ670,"{1: 'Traditional 9 AM to 5 PM day', 2: 'Evening or nights', 3: 'Early mornings', 5: 'Variable (early mornings, days, and nights)', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OCQ380,"{1: 'Taking care of house or family', 2: 'Going to school', 3: 'Retired', 4: 'Unable to work for health reasons', 5: 'On layoff', 6: 'Disabled', 7: 'Other', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OCD390G,"{1: 'Enter occupation', 2: 'Same as current occupation', 3: 'Armed forces', 4: 'Never worked', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OCD395,"{5: '0-5 Months', 600: '600 Months or more', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OHQ030,"{1: '6 months or less', 2: 'More than 6 months, but not more than 1 year ago', 3: 'More than 1 year, but not more than 2 years ago', 4: 'More than 2 years, but not more than 3 years ago', 5: 'More than 3 years, but not more than 5 years ago', 6: 'More than 5 years ago', 7: 'Never have been', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OHQ033,"{1: 'Went in on own for check-up, examination, or cleaning', 2: 'Was called in by the dentist for check-up, examination, or cleaning', 3: 'Something was wrong, bothering or hurting {me/SP}', 4: 'Went for treatment of a condition that dentist discovered at earlier checkup or examination', 5: 'Other', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ770,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ780A,"{10: 'Could not afford the cost', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OHQ780B,"{11: 'Did not want to spend the money', '.': 'Missing'}"
+OHQ780C,"{12: 'Insurance did not cover recommended procedure', '.': 'Missing'}"
+OHQ780D,"{13: 'Dental office is too far away', '.': 'Missing'}"
+OHQ780E,"{14: 'Dental office not open at convenient time', '.': 'Missing'}"
+OHQ780F,"{15: 'Another dentist recommended not doing it', '.': 'Missing'}"
+OHQ780G,"{16: 'Afraid or do not like dentists', '.': 'Missing'}"
+OHQ780H,"{17: 'Unable to take time off from work', '.': 'Missing'}"
+OHQ780I,"{18: 'Too busy', '.': 'Missing'}"
+OHQ780J,"{19: 'I did not think anything serious was wrong - expected dental problems to go away', '.': 'Missing'}"
+OHQ780K,"{20: 'Other', '.': 'Missing'}"
+OHQ555G,"{1: 'Enter age', 2: 'Has not started brushing teeth', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ555Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OHQ555U,"{1: 'Months', 2: 'Years', '.': 'Missing'}"
+OHQ560G,"{1: 'Enter age', 2: 'Has not started brushing teeth', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ560Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OHQ560U,"{1: 'Months', 2: 'Years', '.': 'Missing'}"
+OHQ566,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ571Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OHQ571U,"{1: 'Month', 2: 'Years', '.': 'Missing'}"
+OHQ576G,"{1: 'Age', 2: 'Still taking fluoride drops or tablets', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ576Q,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OHQ576U,"{1: 'Months', 2: 'Years', '.': 'Missing'}"
+OHQ610,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ612,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ614,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ620,"{1: 'Very often', 2: 'Fairly often', 3: 'Occasionally', 4: 'Hardly ever, or', 5: 'Never?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ640,"{1: 'Very often', 2: 'Fairly often', 3: 'Occasionally', 4: 'Hardly ever, or', 5: 'Never?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ680,"{1: 'Very often', 2: 'Fairly often', 3: 'Occasionally', 4: 'Hardly ever, or', 5: 'Never?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ835,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ845,"{1: 'Excellent', 2: 'Very good', 3: 'Good', 4: 'Fair', 5: 'Poor', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ848G,"{1: 'Enter number', 2: 'Child does not brush yet', 3: 'Does not brush every day', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ848Q,"{1: '1 time', 2: '2 times', 3: '3 times', 4: '4 times', 5: '5 times', 6: '6 times', 7: '7 times', 8: '8 times', 9: '9 or more times', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OHQ849,"{1: 'Full load', 2: 'Half load', 3: 'Pea size', 4: 'Smear', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ850,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ860,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ870,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OHQ880,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ895,"{1: 'Within past year', 2: 'Between 1 and 3 years ago', 3: 'Over 3 years ago', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OHQ900,"{1: 'Doctor/physician', 2: 'Nurse/nurse practitioner', 3: 'Dentist (include oral surgeons)', 4: 'Dental Hygienist', 5: 'Other', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ010a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ010b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ010c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ020a,"{1: '1', 2: '2', 3: '3', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OSQ020b,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OSQ020c,"{1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+OSD030aa,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040aa,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050aa,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030ab,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040ab,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050ab,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030ac,"{65: '65', 80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040ac,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050ac,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030ba,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040ba,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050ba,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030bb,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040bb,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050bb,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030bc,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040bc,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050bc,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030bd,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040bd,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050bd,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trama?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030be,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040be,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050be,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs or...', 3: 'A car accident or other severe trama?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030ca,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040ca,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050ca,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030cb,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040cb,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050cb,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs', 3: 'A car accident or other severe trauma', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030cc,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040cc,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050cc,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs or...', 3: 'A car accident or other severe trama?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030cd,"{80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040cd,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050cd,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs or...', 3: 'A car accident or other severe trama?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD030ce,"{58: '58', 80: '80 or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+OSQ040ce,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSD050ce,"{1: 'A fall from standing height or less, for example, tripped, slipped, fell out of bed', 2: 'A hard fall, such as falling off a ladder or step stool, down stairs or...', 3: 'A car accident or other severe trama?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ080,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100a,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110a,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120a,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100b,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110b,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120b,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100c,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110c,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120c,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090d,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100d,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110d,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120d,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090e,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100e,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110e,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120e,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090f,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100f,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110f,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120f,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090g,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ120g,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090h,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ120h,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090i,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ120i,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ090j,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ100j,"{10: 'HEAD/FACE', 11: 'UPPER ARM (HUMERUS)', 12: 'LOWER ARM BETWEEN WRIST AND ELBOW (DO NOT INCLUDE WRIST)', 13: 'ELBOW', 14: 'HAND', 15: 'FINGERS', 16: 'SHOULDER', 17: 'COLLAR BONE', 18: 'RIBS (EITHER SIDE)', 19: 'PELVIS (NOT HIP)', 20: 'UPPER LEG (THIGH EXCLUDING HIP)', 21: 'LOWER LEG (BETWEEN ANKLE AND KNEE)', 22: 'KNEE (PATELLA)', 23: 'ANKLE', 24: 'HEEL', 25: 'FOOT', 26: 'TOES', 27: 'OTHER (DO NOT SPECIFY)', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+OSD110j,"{80: '80 or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ120j,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ072,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ130,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ140q,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ140u,"{1: 'Month', 2: 'Year', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ150,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ160a,"{1: 'Mother', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ160b,"{2: 'Father', '.': 'Missing'}"
+OSQ170,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ180,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ190,"{1: 'under 50 years or', 2: '50 years or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ200,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+OSQ210,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+OSQ220,"{1: 'Under 50 years old, or', 2: '50 years old or older?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PUQ100,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PUQ110,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PAQ605,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PAQ610,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAD615,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+PAQ620,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PAQ625,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAD630,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+PAQ635,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PAQ640,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAD645,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+PAQ650,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PAQ655,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAD660,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+PAQ665,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PAQ670,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAD675,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+PAD680,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+PAQ706,"{0: '0 days', 1: '1 day', 2: '2 days', 3: '3 days', 4: '4 days', 5: '5 days', 6: '6 days', 7: '7 days', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAQ710,"{0: 'Less than 1 hour,', 1: '1 hour,', 2: '2 hours,', 3: '3 hours,', 4: '4 hours, or', 5: '5 hours or more, or', 8: ""{You don't/SP does not} watch TV or videos"", 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PAQ715,"{0: 'Less than 1 hour,', 1: '1 hour,', 2: '2 hours,', 3: '3 hours,', 4: '4 hours, or', 5: '5 hours or more, or', 8: '{you do not/SP does not} use a computer outside of school', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PFQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ030,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ033,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ041,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ049,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ051,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ054,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ057,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ059,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061A,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061B,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061C,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061D,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061E,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061F,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061G,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061H,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061I,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061J,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061K,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061L,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061M,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061N,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061O,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061P,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061Q,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061R,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061S,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ061T,"{1: 'No difficulty', 2: 'Some difficulty', 3: 'Much difficulty', 4: 'Unable to do', 5: 'Do not do this activity', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+PFQ063A,"{10: 'Arthritis/rheumatism', 11: 'Back or neck problem', 12: 'Birth defect', 13: 'Cancer', 14: 'Depression/anxiety/emotional problem', 15: 'Other developmental problem (such as cerebral palsy)', 16: 'Diabetes', 17: 'Fractures, bone/joint injury', 18: 'Hearing problem', 19: 'Heart problem', 20: 'Hypertension/high blood pressure', 21: 'Lung/breathing problem', 22: 'Mental retardation', 23: 'Other injury', 24: 'Senility', 25: 'Stroke problem', 26: 'Vision/problem seeing', 27: 'Weight problem', 28: 'Other impairment/problem', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PFQ063B,"{10: 'Arthritis/rheumatism', 11: 'Back or neck problem', 12: 'Birth defect', 13: 'Cancer', 14: 'Depression/anxiety/emotional problem', 15: 'Other developmental problem (such as cerebral palsy)', 16: 'Diabetes', 17: 'Fractures, bone/joint injury', 18: 'Hearing problem', 19: 'Heart problem', 20: 'Hypertension/high blood pressure', 21: 'Lung/breathing problem', 22: 'Mental retardation', 23: 'Other injury', 24: 'Senility', 25: 'Stroke problem', 26: 'Vision/problem seeing', 27: 'Weight problem', 28: 'Other impairment/problem', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PFQ063C,"{10: 'Arthritis/rheumatism', 11: 'Back or neck problem', 12: 'Birth defect', 13: 'Cancer', 14: 'Depression/anxiety/emotional problem', 15: 'Other developmental problem (such as cerebral palsy)', 16: 'Diabetes', 17: 'Fractures, bone/joint injury', 18: 'Hearing problem', 19: 'Heart problem', 20: 'Hypertension/high blood pressure', 21: 'Lung/breathing problem', 22: 'Mental retardation', 23: 'Other injury', 24: 'Senility', 25: 'Stroke problem', 26: 'Vision/problem seeing', 27: 'Weight problem', 28: 'Other impairment/problem', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PFQ063D,"{10: 'Arthritis/rheumatism', 11: 'Back or neck problem', 12: 'Birth defect', 13: 'Cancer', 14: 'Depression/anxiety/emotional problem', 15: 'Other developmental problem (such as cerebral palsy)', 16: 'Diabetes', 17: 'Fractures, bone/joint injury', 18: 'Hearing problem', 19: 'Heart problem', 20: 'Hypertension/high blood pressure', 21: 'Lung/breathing problem', 22: 'Mental retardation', 23: 'Other injury', 24: 'Senility', 25: 'Stroke problem', 26: 'Vision/problem seeing', 27: 'Weight problem', 28: 'Other impairment/problem', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PFQ063E,"{10: 'Arthritis/rheumatism', 11: 'Back or neck problem', 12: 'Birth defect', 13: 'Cancer', 14: 'Depression/anxiety/emotional problem', 15: 'Other developmental problem (such as cerebral palsy)', 16: 'Diabetes', 17: 'Fractures, bone/joint injury', 18: 'Hearing problem', 19: 'Heart problem', 20: 'Hypertension/high blood pressure', 21: 'Lung/breathing problem', 22: 'Mental retardation', 23: 'Other injury', 24: 'Senility', 25: 'Stroke problem', 26: 'Vision/problem seeing', 27: 'Weight problem', 28: 'Other impairment/problem', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+PFQ090,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RXQ510,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RXQ515,"{1: 'Yes', 2: 'No', 3: 'Sometimes', 4: 'Stopped aspirin use due to side effects', 9: ""Don't know"", '.': 'Missing'}"
+RXQ520,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RXQ525G,"{1: 'One every day', 2: 'One every other day', 3: 'Another schedule', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RXQ525Q,{'.': 'Missing'}
+RXQ525U,"{1: 'Per day', 2: 'Per week', 9: ""Don't know"", '.': 'Missing'}"
+RXD530,"{500: '500 mg or higher', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+RHQ010,"{0: ""Hasn't started yet"", 20: '20 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ020,"{1: 'Younger than 10', 2: '10 to 12', 3: '13 to 15', 4: '16 or older', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ031,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHD043,"{1: 'Pregnancy', 2: 'Breast feeding', 3: 'Hysterectomy', 7: 'Menopause/Change of life', 9: 'Other', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ060,"{19: '19 years or under', 60: '60 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ070,"{1: 'Younger than 30', 2: '30 to 34', 3: '35 to 39', 4: '40 to 44', 5: '45 to 49', 6: '50 to 54', 7: '55 or older', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ074,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ076,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ078,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ131,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHD143,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ160,"{11: '11 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ162,"{1: 'Yes', 2: 'No', 3: 'Borderline', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ163,"{14: '14 years or under', 45: '45 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ166,"{11: '11 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ169,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ172,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHD173,"{14: '14 years or under', 45: '45 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ171,"{11: '11 or more', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHD180,"{14: '14 years or under', 45: '45 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHD190,"{14: '14 years or under', 45: '45 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ197,"{1: '1 month or less', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ200,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHD280,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ291,"{19: '19 years or under', 60: '60 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ305,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ332,"{19: '19 years or under', 60: '60 years or older', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+RHQ420,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ540,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ542A,"{10: 'Pills', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ542B,"{11: 'Patches', '.': 'Missing'}"
+RHQ542C,"{12: 'Cream/suppository/injection', '.': 'Missing'}"
+RHQ542D,"{13: 'Other', '.': 'Missing'}"
+RHQ554,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ560Q,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ560U,"{1: 'Months', 2: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ570,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ576Q,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ576U,"{1: 'Months', 2: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ580,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ586Q,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ586U,"{1: 'Months', 2: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ596,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+RHQ602Q,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+RHQ602U,"{1: 'Months', 2: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SLQ300,"{77777: 'Refused', 99999: ""Don't know""}"
+SLQ310,"{77777: 'Refused', 99999: ""Don't know""}"
+SLD012,"{2: 'Less then 3 hours', 14: '14 hours or more', '.': 'Missing'}"
+SLQ320,"{77777: 'Refused', 99999: ""Don't know""}"
+SLQ330,"{77777: 'Refused', 99999: ""Don't know""}"
+SLD013,"{2: 'Less then 3 hours', 14: '14 hours or more', '.': 'Missing'}"
+SLQ030,"{0: 'Never', 1: 'Rarely - 1-2 nights a week', 2: 'Occasionally - 3-4 nights a week', 3: 'Frequently - 5 or more nights a week', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SLQ040,"{0: 'Never', 1: 'Rarely - 1-2 nights a week', 2: 'Occasionally - 3-4 nights a week', 3: 'Frequently - 5 or more nights a week', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SLQ050,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SLQ120,"{0: 'Never', 1: 'Rarely - 1 time a month', 2: 'Sometimes - 2-4 times a month', 3: 'Often- 5-15 times a month', 4: 'Almost always - 16-30 times a month', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ020,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMD030,"{0: 'Never smoked cigarettes regularly', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMQ040,"{1: 'Every day', 2: 'Some days', 3: 'Not at all', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ050Q,"{66666: '50 years or more', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+SMQ050U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 4: 'Years', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMD057,"{1: '1 cigarette or less', 95: '95 cigarettes or more', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMQ078,"{1: 'Within 5 minutes', 2: 'From 6 to 30 minutes', 3: 'From more than 30 minutes to one hour', 4: 'From more than 1 hour to 2 hours', 5: 'From more than 2 hours to 3 hours', 6: 'From more than 3 hours to 4 hours', 7: 'More than 4 hours', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMD641,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMD650,"{1: '1 cigarette or less', 95: '95 cigarettes or more', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMD093,"{1: 'Yes', 2: 'No', 3: 'No usual brand', 4: 'Rolls own', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMDUPCA,{}
+SMD100BR,{}
+SMD100FL,"{0: 'Non-filter', 1: 'Filter', '.': 'Missing'}"
+SMD100MN,"{0: 'Non-menthol', 1: 'Menthol', '.': 'Missing'}"
+SMD100LN,"{1: 'Regular (68-72 mm)', 2: 'King (79-88 mm)', 3: 'Long (94-101 mm)', 4: 'Ultra long (110-121 mm)', '.': 'Missing'}"
+SMD100TR,{'.': 'Missing'}
+SMD100NI,{'.': 'Missing'}
+SMD100CO,{'.': 'Missing'}
+SMQ621,"{1: 'I have never smoked, not even a puff', 2: '1 or more puffs but never a whole cigarette', 3: '1 cigarette', 4: '2 to 5 cigarettes', 5: '6 to 15 cigarettes', 6: '16 to 25 cigarettes', 7: '26 to 99 cigarettes', 8: '100 or more cigarettes', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMD630,"{6: '6 years or less', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ661,"{1: 'Marlboro', 2: 'Camel', 3: 'Newport', 8: 'Other brand', 9: 'No usual brand', 10: 'Hand-rolled cigarettes', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ665A,"{1: 'MARLBORO RED', 2: 'MARLBORO RED 83S', 3: 'MARLBORO GOLD', 4: 'MARLBORO GOLD MENTHOL', 5: 'MARLBORO SILVER', 6: 'MARLBORO BLACK', 7: 'MARLBORO MENTHOL', 8: 'OTHER MARLBORO', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ665B,"{1: 'CAMEL', 2: 'CAMEL BLUE', 3: 'CAMEL CRUSH', 4: 'CAMEL CRUSH BOLD', 5: 'CAMEL MENTHOL', 6: 'CAMEL MENTHOL SILVER', 7: 'OTHER CAMEL', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ665C,"{1: 'NEWPORT', 2: 'NEWPORT MENTHOL GOLD', 3: 'OTHER NEWPORT', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ665D,"{1: 'BASIC', 2: 'DORAL RED 100S', 3: 'DORAL MENTHOL GOLD BOX 100S', 4: 'GPC', 5: 'GPC MENTHOL', 6: 'KOOL BLUE MENTHOL 100S', 7: 'KOOL TRUE MENTHOL', 8: 'VIRGINIA SLIMS', 9: 'OTHER BRAND', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ670,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ848,"{777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMQ852Q,"{0: 'Less than one day', 7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+SMQ852U,"{1: 'Days', 2: 'Weeks', 3: 'Months', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ890,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ895,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ900,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ905,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ910,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ915,"{77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMAQUEX2,"{1: 'Home Interview (18+ Yrs)', 2: 'ACASI (12 - 17 Yrs)', '.': 'Missing'}"
+SMD460,"{0: 'No one in houseold is a smoker', 1: '1 household member is a smoker', 2: '2 household members are smokers', 3: '3 or more household members are smokers', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMD470,"{0: 'No one smokes inside the house', 1: '1 household member smokes inside the house', 2: '2 household members smoke inside the house', 3: '3 or more household members smoke inside the house', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMD480,"{0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5', 6: '6', 7: '7', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ681,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690A,"{1: 'Cigarettes', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+SMQ710,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ720,"{95: '95 or more', 777: 'Refused', 999: ""Don't know"", '.': 'Missing'}"
+SMQ725,"{1: 'Today', 2: 'Yesterday', 3: '3 to 5 days ago', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690B,"{2: 'Pipes', '.': 'Missing'}"
+SMQ740,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690C,"{3: 'Cigars or little cigars or cigarilllos', '.': 'Missing'}"
+SMQ770,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690G,"{7: 'Water pipes or Hookahs', '.': 'Missing'}"
+SMQ845,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690H,"{8: 'E-cigarettes', '.': 'Missing'}"
+SMQ849,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ851,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690D,"{4: 'Chewing tobacco', '.': 'Missing'}"
+SMQ800,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690E,"{5: 'Snuff', '.': 'Missing'}"
+SMQ817,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690K,"{11: 'Other Smokeless', '.': 'Missing'}"
+SMQ857O,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ863,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ690F,"{6: 'Nicotine patches, gum, or other nicotine replacement therapy product', '.': 'Missing'}"
+SMQ830,"{7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ840,"{1: 'Today', 2: 'Yesterday', 3: '3 to 5 days ago', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMDANY,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMAQUEX,"{1: 'MEC CAPI Youth (12 - 17 Yrs.)', 2: 'Household CAPI Adults (18+ Yrs.)', 3: 'Household CAPI Youth (0 - 11 Yrs.)', '.': 'Missing'}"
+SMQ856,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ858,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ860,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ862,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ866,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ868,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ870,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ872,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ874,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ876,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ878,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ880,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+SMQ940,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTQ210,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTQ200A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTQ231A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTQ233A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTQ233B,"{1: 'Today', 2: 'Yesterday', 3: 'More than 2 days', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTQ241A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD241B,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ244A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD244B,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ251A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD251B,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ261A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD261B,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ271A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD271B,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ281A,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD281B,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ281C,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD281D,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+VTQ281E,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+VTD281F,"{0: 'Less than one hour', 77: 'Refused', 99: ""Don't know"", '.': 'Missing'}"
+WHD010,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHD020,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHQ030,"{1: 'Overweight,', 2: 'Underweight, or', 3: 'About the right weight?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHQ040,"{1: 'More,', 2: 'Less, or', 3: 'Stay about the same?', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHD050,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHQ060,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHQ070,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHD080A,"{10: 'Ate less food (amount)', '.': 'Missing'}"
+WHD080B,"{11: 'Switched to foods with lower calories', '.': 'Missing'}"
+WHD080C,"{12: 'Ate less fat', '.': 'Missing'}"
+WHD080D,"{13: 'Exercised', '.': 'Missing'}"
+WHD080E,"{14: 'Skipped meals', '.': 'Missing'}"
+WHD080F,"{15: ""Ate 'diet' foods or products"", '.': 'Missing'}"
+WHD080G,"{16: 'Used a liquid diet formula such as slimfast or optifast', '.': 'Missing'}"
+WHD080H,"{17: 'Joined a weight loss program such as Weight Watchers, Jenny Craig, Tops, or Overeaters Anonymous', '.': 'Missing'}"
+WHD080I,"{31: 'Took diet pills prescribed by a doctor', '.': 'Missing'}"
+WHD080J,"{32: 'Took other pills, medicines, herbs, or supplements not needing a prescription', '.': 'Missing'}"
+WHD080K,"{33: 'Took laxatives or vomited', '.': 'Missing'}"
+WHD080M,"{34: 'Drank a lot of water', '.': 'Missing'}"
+WHD080N,"{30: 'Followed a special diet', '.': 'Missing'}"
+WHD080O,"{41: 'Ate fewer carbohydrates', '.': 'Missing'}"
+WHD080P,"{42: 'Started to smoke or began to smoke again', '.': 'Missing'}"
+WHD080Q,"{43: 'Ate more fruits, vegetables, salads', '.': 'Missing'}"
+WHD080R,"{44: 'Changed eating habits', '.': 'Missing'}"
+WHD080S,"{45: 'Ate less sugar, candy, sweets', '.': 'Missing'}"
+WHD080T,"{46: 'Ate less junk food or fast food', '.': 'Missing'}"
+WHD080U,"{35: 'Had weight loss surgery', '.': 'Missing'}"
+WHD080L,"{40: 'Other', '.': 'Missing'}"
+WHQ225,"{1: '1 to 2', 2: '3 to 5', 3: '6 to 10', 4: '11 times or more', 5: 'Never', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHD110,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHD120,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHD130,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHD140,"{7777: 'Refused', 9999: ""Don't know"", '.': 'Missing'}"
+WHQ150,"{80: '80 years or older', 77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+WHQ190,"{1: 'Yes', 2: 'No', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHQ200,"{77777: 'Refused', 99999: ""Don't know"", '.': 'Missing'}"
+WHQ030M,"{1: 'Fat or overweight', 2: 'Too thin', 3: 'About the right weight', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHQ500,"{1: 'Lose weight', 2: 'Gain weight', 3: 'Stay the same weight', 4: 'Not trying to do anything about your weight', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
+WHQ520,"{1: 'Never', 2: 'Sometimes', 3: 'A lot', 7: 'Refused', 9: ""Don't know"", '.': 'Missing'}"
