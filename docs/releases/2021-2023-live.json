@@ -1,0 +1,26 @@
+{
+  "url": "https://www.kaggle.com/datasets/rileyzurrin/nhanes-2021-2023-public-data-and-codebooks",
+  "version": 1,
+  "title": "National Health & Nutrition Exam Survey 2021-2023",
+  "subtitle": "August 2021-August 2023: 82 tables, full dictionary and original CDC files",
+  "update_frequency": null,
+  "authors": [
+    {
+      "name": "CDC / National Center for Health Statistics",
+      "bio": "Conducts NHANES and publishes the original survey data, documentation and analytic guidance."
+    },
+    {
+      "name": "Riley Zurrin",
+      "bio": "Built the extractor and prepared this Kaggle release, including CSV exports, the data dictionary and validation checks."
+    }
+  ],
+  "note": "Website-only metadata edits do not change Version 1 archive contents. The embedded historical metadata says annually; the live update frequency is unspecified. Inline column descriptions were skipped.",
+  "cover_source": "https://storage.googleapis.com/kaggle-datasets-images/4297090/7391741/0cf379303deeca9ffe1080913fa103d9/dataset-cover.jpg?t=2024-01-12-19-48-25",
+  "key_file_descriptions": {
+    "README.md": "Start here. Explains the August 2021-August 2023 release, file layout, joins, CSV import settings, survey weights and validation results. Includes the known differences between source data and CDC codebooks.",
+    "DATA_DICTIONARY.csv": "Full dictionary for every column in all 82 source tables and six participant/component views. Filter by output_file and output_column to find definitions, source variables, eligible populations, instructions, data types and CDC codebook links. Response codes and their meanings are in metadata/codes.csv.",
+    "data/participants.csv": "One row per participant: 11,933 people and 1,112 columns, including SEQN. Joins tables with one record per participant to the full demographics roster. Repeated food and supplement records and lookup tables stay separate in data/tables. Use the dictionary and column mapping to trace each field, and apply the appropriate survey weights for analysis.",
+    "manifest.json": "Inventory of the source tables in this release, with file paths, source URLs, checksums, row counts, column schemas and record structure. Use it to trace a CSV back to its original CDC file and check whether the table has one or multiple records per participant.",
+    "validation.json": "Final validation results for this release. All 82 public files passed independent-reader comparisons and exact CSV round-trip checks. Includes coverage and integrity checks, plus 51 reviewed source/codebook differences retained as warnings. Read this report with metadata/source_discrepancies.json."
+  }
+}

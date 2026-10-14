@@ -80,3 +80,60 @@ python -m nhanes_extractor package --output artifacts/2017-2018 --destination re
 ```
 
 `prepare` creates the card, version notes, migration guide, `DATA_DICTIONARY.csv`, and Kaggle resource schemas. The existing dataset title/slug are preserved. Version metadata deliberately omits a license override; the current Kaggle badge is separate from the CDC source terms. These commands do not publish or upload.
+
+## Reproduce the published 2021-2023 Version 1 package
+
+The final publication profile now lives in `nhanes_extractor/release_2023.py`.
+It builds the full dictionary for all 82 source tables and six views, checks every
+dictionary column against the CSV headers, preserves the archived source artifacts,
+and writes the card, version notes, file descriptions, checksums and ZIP.
+It adds no inline Kaggle column schemas.
+
+This is a frozen release profile for the October 13, 2026 snapshot, not a template
+for future releases. Start with the archived validated build or an unzipped copy of
+[Kaggle Version 1](https://www.kaggle.com/datasets/rileyzurrin/nhanes-2021-2023-public-data-and-codebooks).
+Live CDC downloads can change. Re-running discovery or validation also changes
+retrieval and validation timestamps, so it cannot promise byte-for-byte reproduction.
+The profile regenerates publication files without rerunning or rewriting the archived
+validation evidence. It rejects failed validation and changed artifact hashes.
+
+```sh
+python -m nhanes_extractor.release_2023 artifacts/2021-2023 \
+  --destination releases/2021-2023-v1 \
+  --reference docs/releases/2021-2023-v1-sha256.json
+```
+
+The destination must be new. The command writes a sibling ZIP and verification
+report and exits nonzero on any missing, extra or changed member. All 472 member
+paths and SHA-256 values must match the reference from the verified Kaggle download.
+ZIP container bytes can differ because of timestamps and compression.
+
+The archive retains the metadata originally uploaded, including its historical
+`annually` update-frequency field. Later website edits are recorded separately in
+`docs/releases/2021-2023-live.json`; the live frequency is unspecified. Reproducing
+an archive does not apply those website settings or upload anything.
+
+## Verify a Kaggle download
+
+Compare an existing ZIP, without extracting untrusted archive paths:
+
+```sh
+python -m nhanes_extractor.verification \
+  --expected docs/releases/2021-2023-v1-sha256.json \
+  --actual downloaded.zip --report verification.json
+```
+
+Or download a specific public version through the API and verify it:
+
+```sh
+python -m nhanes_extractor.verification \
+  --expected docs/releases/2021-2023-v1-sha256.json \
+  --dataset rileyzurrin/nhanes-2021-2023-public-data-and-codebooks \
+  --version 1 --report verification.json
+```
+
+`--expected` also accepts the original upload ZIP. Verification detects missing,
+extra, changed and duplicate members and reads every member through the ZIP CRC
+checks. A failed HTTP response or a non-ZIP response is an error, not a successful
+verification. Kaggle can serve individual files before it finishes its full ZIP;
+an individual-file check alone does not prove the ZIP contains no extra files.
